@@ -1,0 +1,21 @@
+ficheiro de teste
+linhas aleatórias
+2 antes de uma data
+1 antes de uma data
+data: 2022-02-22
+1 a seguir a uma data
+2 a seguir a uma data
+1 antes de uma data nova
+22/02/2022 é outra data
+linha posterior
+2ª linha posterior
+lixo
+lixo
+lixo
+-2
+-1
+lixo 06-04-2011
+1
+2
+fim do ficheiro
+...
