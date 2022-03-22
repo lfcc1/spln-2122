@@ -1,0 +1,27 @@
+Aula 1 de SPLN, 15/02/22
+
+Diario de bordo
+
+
+Introdução aos conceitos da cadeira.
+Revisão de Python. (Funções básicas, listas, dicionários, listas de compreensão, ordenação, ficheiros).
+Documentação (offline) de python -> pydoc
+Exercícios dos slides.
+
+Filtros linux: cat, tac, grep, nl, shuffle, pr, sort, ...
+
+
+
+TPC(1): Procurar / arranjar 1 quick reference do python.
+
+TPC(para 'rambos'): arranjar comando chamado cabula, recebe uma chave e mostra o esqueleto do programa correspondente a esse nome.
+
+
+Exercicio do curral das freiras:
+-> extrair todos os nomes das pessoas, contar os nomes, ordenar pelo números de ocorrências e ordenar alfabeticamente.
+
+
+
+
+
+
