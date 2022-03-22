@@ -1,0 +1,4 @@
+No início da aula, foi feita uma resolução do TPC da primeira aula, em conjunto.
+De seguida, foi criado um programa para gerar um ficheiro com os nomes das pessoas nascidas em Portugal no ano de 2017.
+A seguir foi utilizado o ficheiro de nomes para criar um outro programa que deteta todos os nomes presentes num dado texto.
+Por fim foram discutidas técnicas de como tornar este programa num comando unix.
