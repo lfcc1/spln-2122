@@ -8,7 +8,7 @@ import networkx
 import collections
 
 
-f = open("aborto.txt").read()
+f = open("noticia.txt").read()
 
 
 def limpa(texto):
@@ -23,12 +23,20 @@ def limpa(texto):
     texto = re.sub(r",|'|\[|\]|\(|\)|\?|\"", "", texto)
     return texto
 
-f = limpa(f)
+f = re.sub(r"\n+", " ", f)
+
 f = nltk.sent_tokenize(f)
-original = f
+original = f.copy()
+
+for i in range(len(f)):
+    f[i] = limpa(f[i])
+    if not f[i]:
+        del (f[i])
+
 model = KeyedVectors.load("model_300_20_sg.wv")
 
 for i in range(len(f)):
+    # print(f[i])
     f[i] = nltk.word_tokenize(f[i])
     del(f[i][-1])
     vetorPalavras = [model[x] for x in f[i] if x in model]
@@ -43,14 +51,16 @@ for i in range(len(f)):
     for j in range(len(f)):
         matrix[i][j] = my_similarity(f[i],f[j])
 
+
+
 graph = networkx.from_numpy_array(matrix)
 
 score = networkx.pagerank(graph)
 
 most_common = collections.Counter(score).most_common(5)
-
+print(most_common)
+frases = []
 for elem in most_common:
-    frases = []
     frases.append(elem[0])
 
 frases.sort()
