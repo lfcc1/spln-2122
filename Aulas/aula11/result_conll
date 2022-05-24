@@ -1,0 +1,4534 @@
+1	O	o	DET	O	
+2	prisioneiro	prisioneiro	NOUN	O	
+3	do	de o	ADP	O	
+4	Cáucaso	Cáucaso	PROPN	B	LOC
+
+1	Leon	Leon	PROPN	B	PER
+2	Tolstoi	Tolstoi	PROPN	I	PER
+
+1	Um	um	DET	O	
+2	nobre	Nobre	NOUN	O	
+3	servia	servir	VERB	O	
+4	no	em o	ADP	O	
+5	Cáucaso	Cáucaso	PROPN	B	LOC
+6	como	como	ADP	O	
+7	oficial	oficial	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	Chamava-se	Chamava-se	VERB	O	
+2	Giline	Giline	PROPN	B	LOC
+3	.	.	PUNCT	O	
+
+1	Um	um	NUM	O	
+2	dia	dia	NOUN	O	
+3	,	,	PUNCT	O	
+4	recebeu	receber	VERB	O	
+5	uma	um	DET	O	
+6	carta	carta	NOUN	O	
+7	com	com	ADP	O	
+8	o	o	DET	O	
+9	remetente	remetente	NOUN	O	
+10	de	de	ADP	O	
+11	sua	seu	DET	O	
+12	casa	casa	NOUN	O	
+13	.	.	PUNCT	O	
+
+1	Sua	seu	DET	O	
+2	mãe	mãe	NOUN	O	
+3	escrevia-lhe	escrevia-lhe	VERB	O	
+4	:	:	PUNCT	O	
+
+1	“	“	PUNCT	O	
+2	Estou	estar	AUX	O	
+3	velha	velho	ADJ	O	
+4	e	e	CCONJ	O	
+5	desejo	desejo	NOUN	O	
+6	antes	antes	ADV	O	
+7	de	de	ADP	O	
+8	morrer	morrer	VERB	O	
+9	,	,	PUNCT	O	
+10	abraçar	abraçar	VERB	O	
+11	uma	uma	DET	O	
+12	vez	vez	NOUN	O	
+13	mais	mais	ADV	O	
+14	meu	meu	DET	O	
+15	filho	filho	NOUN	O	
+16	querido	querido	ADJ	O	
+17	.	.	PUNCT	O	
+
+1	Vem	Vem	VERB	O	
+2	dizer-me	dizer-me	VERB	O	
+3	adeus	adeus	NOUN	O	
+4	.	.	PUNCT	O	
+
+1	Quero	querer	VERB	O	
+2	que	que	SCONJ	O	
+3	sejas	sejas	AUX	O	
+4	tu	tu	PROPN	O	
+5	a	a	SCONJ	O	
+6	sepultar-me	sepultar-me	NOUN	O	
+7	.	.	PUNCT	O	
+
+1	Depois	depois	ADV	O	
+2	,	,	PUNCT	O	
+3	com	com	ADP	O	
+4	a	o	DET	O	
+5	ajuda	ajuda	NOUN	O	
+6	de	de	ADP	O	
+7	Deus	Deus	PROPN	B	PER
+8	,	,	PUNCT	O	
+9	voltarás	voltarás	VERB	O	
+10	ao	a o	ADP	O	
+11	teu	teu	DET	O	
+12	serviço	serviço	NOUN	O	
+13	.	.	PUNCT	O	
+
+1	Encontrei	Encontrei	VERB	O	
+2	uma	um	DET	O	
+3	boa	bom	ADJ	O	
+4	noiva	noiva	NOUN	O	
+5	para	para	ADP	O	
+6	ti	ti	PRON	O	
+7	.	.	PUNCT	O	
+
+1	É	ser	AUX	O	
+2	inteligente	inteligente	ADJ	O	
+3	,	,	PUNCT	O	
+4	bondosa	bondoso	ADJ	O	
+5	e	e	CCONJ	O	
+6	tem	ter	VERB	O	
+7	alguns	algum	DET	O	
+8	haveres	haver	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Talvez	talvez	ADV	O	
+2	ela	ele	PRON	O	
+3	te	te	PRON	O	
+4	agrade	agradar	VERB	O	
+5	,	,	PUNCT	O	
+6	talvez	talvez	ADV	O	
+7	cases	case	NOUN	O	
+8	com	com	ADP	O	
+9	ela	ele	PRON	O	
+10	,	,	PUNCT	O	
+11	talvez	talvez	ADV	O	
+12	possas	possas	VERB	O	
+13	ficar	ficar	VERB	O	
+14	por	por	ADP	O	
+15	aqui	aqui	ADV	O	
+16	...	...	PUNCT	O	
+
+1	”	”	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	teve	ter	VERB	O	
+3	um	um	DET	O	
+4	momento	momento	NOUN	O	
+5	de	de	ADP	O	
+6	hesitação	hesitação	NOUN	O	
+7	:	:	PUNCT	O	
+8	de	de	ADP	O	
+9	fato	fato	NOUN	O	
+10	,	,	PUNCT	O	
+11	sua	seu	DET	O	
+12	velha	velho	ADJ	O	
+13	mãe	mãe	NOUN	O	
+14	não	não	ADV	O	
+15	teria	ter	VERB	O	
+16	muito	muito	DET	O	
+17	tempo	tempo	NOUN	O	
+18	de	de	ADP	O	
+19	vida	vida	NOUN	O	
+20	;	;	PUNCT	O	
+
+1	talvez	talvez	ADV	O	
+2	não	não	ADV	O	
+3	voltasse	voltar	VERB	O	
+4	a	a	SCONJ	O	
+5	vê-la	vê-la	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Era	ser	AUX	O	
+2	necessário	necessário	ADJ	O	
+3	partir	partir	VERB	O	
+4	e	e	CCONJ	O	
+5	,	,	PUNCT	O	
+6	se	se	SCONJ	O	
+7	a	o	DET	O	
+8	noiva	noiva	NOUN	O	
+9	lhe	ela	PRON	O	
+10	agradasse	agradar	VERB	O	
+11	,	,	PUNCT	O	
+12	era	ser	AUX	O	
+13	bem	bem	ADV	O	
+14	possível	possível	ADJ	O	
+15	que	que	SCONJ	O	
+16	se	se	PRON	O	
+17	realizasse	realizar	VERB	O	
+18	o	o	DET	O	
+19	casamento	casamento	NOUN	O	
+20	.	.	PUNCT	O	
+
+1	Dirigiu-se	Dirigiu-se	VERB	O	
+2	então	então	ADV	O	
+3	ao	a o	ADP	O	
+4	coronel	coronel	NOUN	O	
+5	,	,	PUNCT	O	
+6	obteve	obter	VERB	O	
+7	uma	um	DET	O	
+8	licença	licença	NOUN	O	
+9	,	,	PUNCT	O	
+10	disse	dizer	VERB	O	
+11	adeus	adeus	ADJ	O	
+12	a	a	ADP	O	
+13	seus	seu	DET	O	
+14	camaradas	camarada	NOUN	O	
+15	,	,	PUNCT	O	
+16	comprou	comprar	VERB	O	
+17	de	de	ADP	O	
+18	seus	seu	DET	O	
+19	soldados	soldado	NOUN	O	
+20	quatro	quatro	NUM	O	
+21	cantis	cantis	NOUN	O	
+22	de	de	ADP	O	
+23	aguardente	aguardente	NOUN	O	
+24	com	com	ADP	O	
+25	que	que	PRON	O	
+26	festejou	festejar	VERB	O	
+27	a	o	DET	O	
+28	despedida	despedida	NOUN	O	
+29	,	,	PUNCT	O	
+30	e	e	CCONJ	O	
+31	dispôs-se	dispôs-se	VERB	O	
+32	a	a	ADP	O	
+33	partir	partir	VERB	O	
+34	.	.	PUNCT	O	
+
+1	Estava-se	Estava-se	VERB	O	
+2	então	então	ADV	O	
+3	em	em	ADP	O	
+4	pé	pé	NOUN	O	
+5	de	de	ADP	O	
+6	guerra	guerra	NOUN	O	
+7	,	,	PUNCT	O	
+8	no	em o	ADP	O	
+9	Cáucaso	Cáucaso	PROPN	B	LOC
+10	.	.	PUNCT	O	
+
+1	Ninguém	ninguém	PRON	O	
+2	viajava	viajar	VERB	O	
+3	sozinho	sozinho	ADJ	O	
+4	,	,	PUNCT	O	
+5	nem	nem	CCONJ	O	
+6	de	de	ADP	O	
+7	dia	dia	NOUN	O	
+8	,	,	PUNCT	O	
+9	nem	nem	CCONJ	O	
+10	de	de	ADP	O	
+11	noite	noite	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Assim	assim	ADV	O	
+2	que	que	SCONJ	O	
+3	um	um	DET	O	
+4	russo	russo	NOUN	O	
+5	saía	saír	VERB	O	
+6	e	e	CCONJ	O	
+7	se	se	PRON	O	
+8	afastava	afastar	VERB	O	
+9	das	de o	ADP	O	
+10	fortalezas	fortaleza	NOUN	O	
+11	,	,	PUNCT	O	
+12	os	o	DET	O	
+13	tártaros	tártaro	NOUN	O	
+14	matavam-no	matavam-no	VERB	O	
+15	ou	ou	CCONJ	O	
+16	levavam-no	levavam-no	VERB	O	
+17	prisioneiro	prisioneiro	NOUN	O	
+18	para	para	ADP	O	
+19	as	o	DET	O	
+20	montanhas	montanha	NOUN	O	
+21	.	.	PUNCT	O	
+
+1	Duas	dois	NUM	O	
+2	vezes	vez	NOUN	O	
+3	por	por	ADP	O	
+4	semana	semana	NOUN	O	
+5	os	o	DET	O	
+6	viajantes	viajante	NOUN	O	
+7	iam	ir	VERB	O	
+8	de	de	ADP	O	
+9	fortaleza	fortaleza	NOUN	O	
+10	em	em	ADP	O	
+11	fortaleza	fortaleza	NOUN	O	
+12	protegidos	protegir	VERB	O	
+13	pelos	por o	ADP	O	
+14	soldados	soldado	NOUN	O	
+15	da	de o	ADP	O	
+16	escolta	escolta	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	Estava-se	Estava-se	VERB	O	
+2	então	então	ADV	O	
+3	em	em	ADP	O	
+4	pleno	pleno	ADJ	O	
+5	verão	verão	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	De	de	ADP	O	
+2	madrugada	madrugada	NOUN	O	
+3	,	,	PUNCT	O	
+4	formou-se	formar se	VERB	O	
+5	a	o	DET	O	
+6	caravana	caravana	NOUN	O	
+7	fora	fora	ADV	O	
+8	da	de o	ADP	O	
+9	fortaleza	fortaleza	NOUN	O	
+10	;	;	PUNCT	O	
+11	os	o	DET	O	
+12	soldados	soldado	NOUN	O	
+13	da	de o	ADP	O	
+14	escolta	escolta	NOUN	O	
+15	saíram	sair	VERB	O	
+16	e	e	CCONJ	O	
+17	iniciaram	iniciar	VERB	O	
+18	a	o	DET	O	
+19	marcha	marcha	NOUN	O	
+20	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	ia	ir	VERB	O	
+3	a	a	ADP	O	
+4	cavalo	cavalo	NOUN	O	
+5	;	;	PUNCT	O	
+6	uma	um	DET	O	
+7	carroça	carroça	NOUN	O	
+8	levando	levar	VERB	O	
+9	suas	seu	DET	O	
+10	bagagens	bagagem	NOUN	O	
+11	,	,	PUNCT	O	
+12	seguia	seguir	VERB	O	
+13	com	com	ADP	O	
+14	a	o	DET	O	
+15	caravana	caravana	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	Tinham	Tinham	VERB	O	
+2	20	20	NUM	O	
+3	verstas	versta	NOUN	O	
+4	de	de	ADP	O	
+5	caminho	caminho	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	A	o	DET	O	
+2	caravana	caravana	NOUN	O	
+3	deslocava-se	deslocav se	VERB	O	
+4	lentamente	lentamente	ADV	O	
+5	.	.	PUNCT	O	
+
+1	Ora	ora	ADV	O	
+2	se	se	PRON	O	
+3	detinham	deter	VERB	O	
+4	os	o	DET	O	
+5	soldados	soldado	NOUN	O	
+6	,	,	PUNCT	O	
+7	ora	ora	ADV	O	
+8	se	se	PRON	O	
+9	soltava	soltar	VERB	O	
+10	uma	um	DET	O	
+11	roda	roda	NOUN	O	
+12	ou	ou	CCONJ	O	
+13	parava	parar	VERB	O	
+14	um	um	DET	O	
+15	cavalo	cavalo	NOUN	O	
+16	da	de o	ADP	O	
+17	caravana	caravana	NOUN	O	
+18	,	,	PUNCT	O	
+19	parando	parar	VERB	O	
+20	todos	todo	PRON	O	
+21	para	para	SCONJ	O	
+22	aguardar	aguardar	VERB	O	
+23	o	o	DET	O	
+24	retardatário	retardatário	NOUN	O	
+25	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	pensou	pensar	VERB	O	
+3	:	:	PUNCT	O	
+4	“	“	PUNCT	O	
+
+1	Por	por	ADP	O	
+2	que	que	PRON	O	
+3	motivo	motivo	NOUN	O	
+4	não	não	ADV	O	
+5	hei	hei	VERB	O	
+6	de	de	SCONJ	O	
+7	ir	ir	VERB	O	
+8	só	só	ADV	O	
+9	,	,	PUNCT	O	
+10	sem	sem	ADP	O	
+11	os	o	DET	O	
+12	soldados	soldado	NOUN	O	
+13	?	?	PUNCT	O	
+
+1	O	o	DET	O	
+2	meu	meu	DET	O	
+3	cavalo	cavalo	NOUN	O	
+4	é	ser	AUX	O	
+5	esplêndido	esplênder	ADJ	O	
+6	;	;	PUNCT	O	
+7	mesmo	mesmo	ADV	O	
+8	que	que	SCONJ	O	
+9	encontre	encontrar	VERB	O	
+10	os	o	DET	O	
+11	tártaros	tártaro	NOUN	O	
+12	,	,	PUNCT	O	
+13	fugirei	fugirar	VERB	O	
+14	,	,	PUNCT	O	
+15	galopando	galopar	VERB	O	
+16	.	.	PUNCT	O	
+
+1	”	”	PUNCT	O	
+
+1	Parou	Parou	VERB	O	
+2	a	o	DET	O	
+3	montada	montada	NOUN	O	
+4	.	.	PUNCT	O	
+
+1	Estava	estar	AUX	O	
+2	incerto	incerto	ADJ	O	
+3	do	de o	ADP	O	
+4	que	que	PRON	O	
+5	fazer	fazer	VERB	O	
+6	...	...	PUNCT	O	
+
+1	Mas	mas	CCONJ	O	
+2	eis	eis	ADP	O	
+3	que	que	SCONJ	O	
+4	para	para	ADP	O	
+5	ele	ele	PRON	O	
+6	se	se	PRON	O	
+7	dirige	dirigir	VERB	O	
+8	Kostiline	Kostiline	PROPN	B	MISC
+9	,	,	PUNCT	O	
+10	outro	outro	DET	O	
+11	oficial	oficial	ADJ	O	
+12	,	,	PUNCT	O	
+13	também	também	ADV	O	
+14	a	a	ADP	O	
+15	cavalo	cavalo	NOUN	O	
+16	,	,	PUNCT	O	
+17	que	que	PRON	O	
+18	lhe	ele	PRON	O	
+19	diz	dizer	VERB	O	
+20	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+
+1	Vamos	ir	VERB	O	
+2	embora	embora	SCONJ	O	
+3	,	,	PUNCT	O	
+4	Giline	Giline	PROPN	B	PER
+5	.	.	PUNCT	O	
+
+1	Não	não	ADV	O	
+2	agüento	agüentar	VERB	O	
+3	mais	mais	ADV	O	
+4	.	.	PUNCT	O	
+
+1	Estou	estar	AUX	O	
+2	com	com	ADP	O	
+3	uma	um	DET	O	
+4	fome	fome	NOUN	O	
+5	danada	danar	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Estou	estar	AUX	O	
+2	em	em	ADP	O	
+3	brasas	brasa	NOUN	O	
+4	.	.	PUNCT	O	
+
+1	Tenho	ter	VERB	O	
+2	a	o	DET	O	
+3	camiseta	camiseta	NOUN	O	
+4	ensopada	ensopar	VERB	O	
+5	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Tens	Tens	VERB	O	
+3	o	o	DET	O	
+4	fuzil	fuzil	NOUN	O	
+5	carregado	carregar	VERB	O	
+6	?	?	PUNCT	O	
+
+1	-	-	PUNCT	O	
+
+1	Sim	sim	ADV	O	
+2	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Bom	bom	ADJ	B	LOC
+3	,	,	PUNCT	O	
+4	então	então	ADV	O	
+5	vamos	ir	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Apenas	apenas	ADV	O	
+2	com	com	ADP	O	
+3	uma	um	DET	O	
+4	condição	condição	NOUN	O	
+5	:	:	PUNCT	O	
+6	não	não	ADV	O	
+7	nos	em o	ADP	O	
+8	separaremos	separaremo	NOUN	O	
+9	,	,	PUNCT	O	
+10	aconteça	acontecer	VERB	O	
+11	o	o	PRON	O	
+12	que	que	PRON	O	
+13	acontecer	acontecer	VERB	O	
+14	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	partiram	partir	VERB	O	
+3	,	,	PUNCT	O	
+4	deixando	deixar	VERB	O	
+5	a	o	DET	O	
+6	caravana	caravana	NOUN	O	
+7	para	para	ADP	O	
+8	trás	trás	ADV	O	
+9	.	.	PUNCT	O	
+
+1	Cavalgaram	Cavalgaram	PROPN	B	PER
+2	pela	por o	ADP	O	
+3	estepe	estepe	NOUN	O	
+4	,	,	PUNCT	O	
+5	conversando	conversar	VERB	O	
+6	e	e	CCONJ	O	
+7	vigiando	vigiar	VERB	O	
+8	o	o	DET	O	
+9	horizonte	horizonte	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	olhos	olho	NOUN	O	
+3	perdiam-se	perdiar se	VERB	O	
+4	ao	a o	ADP	O	
+5	longe	longe	NOUN	O	
+6	,	,	PUNCT	O	
+7	na	em o	ADP	O	
+8	imensidão	imensidão	NOUN	O	
+9	plana	plano	ADJ	O	
+10	.	.	PUNCT	O	
+
+1	Finalmente	finalmente	ADV	O	
+2	foi	ser	AUX	O	
+3	interrompida	interromper	VERB	O	
+4	a	o	DET	O	
+5	continuidade	continuidade	NOUN	O	
+6	da	de o	ADP	O	
+7	estepe	Estepe	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	caminho	caminho	NOUN	O	
+3	seguia	seguir	VERB	O	
+4	entre	entre	ADP	O	
+5	duas	dois	NUM	O	
+6	montanhas	montanha	NOUN	O	
+7	,	,	PUNCT	O	
+8	através	através	ADV	O	
+9	de	de	ADP	O	
+10	um	um	DET	O	
+11	desfiladeiro	desfiladeiro	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	disse	dizer	VERB	O	
+3	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Vou	Vou	AUX	B	MISC
+3	dar	dar	VERB	O	
+4	uma	um	DET	O	
+5	espiada	espiada	NOUN	O	
+6	,	,	PUNCT	O	
+7	lá	lá	ADV	O	
+8	do	de o	ADP	O	
+9	alto	alto	NOUN	O	
+10	da	de o	ADP	O	
+11	montanha	montanha	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	seu	seu	DET	O	
+3	cavalo	cavalo	NOUN	O	
+4	era	ser	AUX	O	
+5	um	um	DET	O	
+6	animal	animal	NOUN	O	
+7	treinado	treinar	VERB	O	
+8	para	para	ADP	O	
+9	caçadas	caçada	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Parecia	parecer	VERB	O	
+2	ter	ter	VERB	O	
+3	asas	asa	NOUN	O	
+4	,	,	PUNCT	O	
+5	escalando	escalar	VERB	O	
+6	a	o	DET	O	
+7	encosta	encosta	NOUN	O	
+8	abrupta	abrupto	ADJ	O	
+9	.	.	PUNCT	O	
+
+1	Quando	quando	SCONJ	O	
+2	chegou	chegar	VERB	O	
+3	ao	a o	ADP	O	
+4	alto	alto	NOUN	O	
+5	,	,	PUNCT	O	
+6	Giline	Giline	PROPN	B	PER
+7	desceu	descer	VERB	O	
+8	e	e	CCONJ	O	
+9	olhou	olhar	VERB	O	
+10	:	:	PUNCT	O	
+11	à	a o	ADP	O	
+12	frente	frente	NOUN	O	
+13	deles	de eles	PRON	O	
+14	,	,	PUNCT	O	
+15	a	a	ADP	O	
+16	cem	cem	NUM	O	
+17	metros	metro	NOUN	O	
+18	,	,	PUNCT	O	
+19	tártaros	tártaro	NOUN	O	
+20	a	a	ADP	O	
+21	cavalo	cavalo	NOUN	O	
+22	.	.	PUNCT	O	
+
+1	Trinta	trinta	NUM	O	
+2	homens	homem	NOUN	O	
+3	.	.	PUNCT	O	
+
+1	Quis	Quis	PROPN	O	
+2	regressas	regressa	NOUN	O	
+3	.	.	PUNCT	O	
+
+1	Mas	mas	CCONJ	O	
+2	os	o	DET	O	
+3	tártaros	tártaro	NOUN	O	
+4	também	também	ADV	O	
+5	o	ele	PRON	O	
+6	tinham	ter	AUX	O	
+7	avistado	avistar	VERB	O	
+8	;	;	PUNCT	O	
+9	lançaram-se	lançar se	VERB	O	
+10	sobre	sobre	ADP	O	
+11	ele	ele	PRON	O	
+12	e	e	CCONJ	O	
+13	,	,	PUNCT	O	
+14	saltando	saltar	VERB	O	
+15	de	de	ADP	O	
+16	um	um	DET	O	
+17	lado	lado	NOUN	O	
+18	para	para	ADP	O	
+19	outro	outro	PRON	O	
+20	,	,	PUNCT	O	
+21	foram	ir	AUX	O	
+22	retirando	retirar	VERB	O	
+23	os	o	DET	O	
+24	fuzis	fuzil	NOUN	O	
+25	dos	de o	ADP	O	
+26	coldres	coldr	NOUN	O	
+27	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	fez	fazer	VERB	O	
+3	seu	seu	DET	O	
+4	cavalo	cavalo	NOUN	O	
+5	lançar-se	lançar se	VERB	O	
+6	pela	por o	ADP	O	
+7	encosta	encosta	NOUN	O	
+8	,	,	PUNCT	O	
+9	e	e	CCONJ	O	
+10	gritou	gritar	VERB	O	
+11	para	para	ADP	O	
+12	Kostiline	Kostiline	PROPN	B	MISC
+13	:	:	PUNCT	I	MISC
+
+1	-	-	PUNCT	O	
+2	O	o	DET	O	
+3	teu	teu	DET	O	
+4	fuzil	fuzil	NOUN	O	
+5	!	!	PUNCT	O	
+
+1	Segura	segura	VERB	O	
+2	o	o	DET	O	
+3	teu	teu	DET	O	
+4	fuzil	fuzil	NOUN	O	
+5	!	!	PUNCT	O	
+
+1	Mas	mas	CCONJ	O	
+2	Kostiline	Kostiline	PROPN	B	LOC
+3	,	,	PUNCT	O	
+4	em	em	ADP	O	
+5	vez	vez	NOUN	O	
+6	de	de	ADP	O	
+7	esperar	esperar	VERB	O	
+8	,	,	PUNCT	O	
+9	deitou-se	deitar se	VERB	O	
+10	sobre	sobre	ADP	O	
+11	o	o	DET	O	
+12	cavalo	cavalo	NOUN	O	
+13	,	,	PUNCT	O	
+14	como	como	ADV	O	
+15	é	ser	AUX	O	
+16	habito	habito	NOUN	O	
+17	dos	de o	ADP	O	
+18	soldados	soldado	NOUN	O	
+19	das	de o	ADP	O	
+20	fortalezas	fortaleza	NOUN	O	
+21	.	.	PUNCT	O	
+
+1	Com	com	ADP	O	
+2	o	o	DET	O	
+3	chicote	chicote	NOUN	O	
+4	,	,	PUNCT	O	
+5	açoitou-o	açoitar ele	VERB	O	
+6	,	,	PUNCT	O	
+7	fazendo	fazer	VERB	O	
+8	saltar	saltar	VERB	O	
+9	para	para	ADP	O	
+10	a	o	DET	O	
+11	esquerda	esquerda	NOUN	O	
+12	e	e	CCONJ	O	
+13	para	para	ADP	O	
+14	a	o	DET	O	
+15	direita	direita	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	compreendeu	compreender	VERB	O	
+3	que	que	SCONJ	O	
+4	a	o	DET	O	
+5	situação	situação	NOUN	O	
+6	se	se	PRON	O	
+7	tornava	tornar	VERB	O	
+8	perigosa	perigoso	ADJ	O	
+9	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	fuzil	fuzil	NOUN	O	
+3	tinha	ter	AUX	O	
+4	desaparecido	desaparecer	VERB	O	
+5	com	com	ADP	O	
+6	Kostiline	Kostiline	PROPN	B	PER
+7	;	;	PUNCT	O	
+8	apenas	apenas	ADV	O	
+9	um	um	NUM	O	
+10	sabre	sabre	NOUN	O	
+11	não	não	ADV	O	
+12	poderia	poder	VERB	O	
+13	enfrentar	enfrentar	VERB	O	
+14	os	o	DET	O	
+15	inimigos	inimigo	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	Dirigiu	Dirigiu	VERB	O	
+2	a	o	DET	O	
+3	montada	montar	VERB	O	
+4	pelo	por o	ADP	O	
+5	caminho	caminho	NOUN	O	
+6	que	que	PRON	O	
+7	levava	levar	VERB	O	
+8	até	até	ADP	O	
+9	os	o	DET	O	
+10	soldados	soldado	NOUN	O	
+11	.	.	PUNCT	O	
+
+1	Essa	esse	DET	O	
+2	,	,	PUNCT	O	
+3	a	o	DET	O	
+4	única	único	ADJ	O	
+5	salvação	salvação	NOUN	O	
+6	que	que	PRON	O	
+7	poderia	poder	VERB	O	
+8	esperar	esperar	VERB	O	
+9	.	.	PUNCT	O	
+
+1	Viu	Viu	ADV	O	
+2	que	que	SCONJ	O	
+3	6	6	NUM	O	
+4	tártaros	tártaro	NOUN	O	
+5	de	de	ADP	O	
+6	desviavam	desviar	VERB	O	
+7	para	para	SCONJ	O	
+8	lhe	ele	PRON	O	
+9	cortarem	cortar	VERB	O	
+10	caminho	caminho	NOUN	O	
+11	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	seu	seu	DET	O	
+3	cavalo	cavalo	NOUN	O	
+4	era	ser	AUX	O	
+5	bom	bom	ADJ	O	
+6	,	,	PUNCT	O	
+7	mas	mas	CCONJ	O	
+8	os	o	PRON	O	
+9	dos	de o	ADP	O	
+10	outros	outro	PRON	O	
+11	eram	ser	AUX	O	
+12	ainda	ainda	ADV	O	
+13	melhores	bom	ADJ	O	
+14	e	e	CCONJ	O	
+15	eles	ele	PRON	O	
+16	galopavam	galopar	VERB	O	
+17	,	,	PUNCT	O	
+18	firmemente	firmemente	ADV	O	
+19	decididos	decidir	VERB	O	
+20	a	a	SCONJ	O	
+21	interceptá-lo	interceptar ele	VERB	O	
+22	.	.	PUNCT	O	
+
+1	Reduziu	Reduziu	VERB	O	
+2	a	o	DET	O	
+3	marcha	marcha	NOUN	O	
+4	;	;	PUNCT	O	
+5	quis	querer	VERB	O	
+6	voltar	voltar	VERB	O	
+7	,	,	PUNCT	O	
+8	mas	mas	CCONJ	O	
+9	lançado	lançar	VERB	O	
+10	já	já	ADV	O	
+11	na	em o	ADP	O	
+12	carreira	carreira	NOUN	O	
+13	,	,	PUNCT	O	
+14	não	não	ADV	O	
+15	pôde	poder	VERB	O	
+16	sofrear	sofrear	VERB	O	
+17	o	o	DET	O	
+18	cavalo	cavalo	NOUN	O	
+19	.	.	PUNCT	O	
+
+1	Voou	Voou	NOUN	B	PER
+2	direto	direto	ADP	O	
+3	aos	a o	ADP	O	
+4	tártaros	tártaro	NOUN	O	
+5	.	.	PUNCT	O	
+
+1	Viu	Viu	ADV	O	
+2	que	que	SCONJ	O	
+3	um	um	NUM	O	
+4	deles	de ele	PRON	O	
+5	se	se	PRON	O	
+6	aproximava	aproximar	VERB	O	
+7	;	;	PUNCT	O	
+8	distinguiu-lhe	distinguiu-lhe	VERB	O	
+9	uma	um	DET	O	
+10	soberba	soberba	ADJ	O	
+11	barba	barba	NOUN	O	
+12	vermelha	vermelho	ADJ	O	
+13	e	e	CCONJ	O	
+14	reparou	reparar	VERB	O	
+15	que	que	SCONJ	O	
+16	montava	montar	VERB	O	
+17	um	um	DET	O	
+18	cavalo	cavalo	NOUN	O	
+19	cinzento	cinzento	ADJ	O	
+20	.	.	PUNCT	O	
+
+1	Gritava	Gritava	VERB	O	
+2	.	.	PUNCT	O	
+
+1	Seu	seu	DET	O	
+2	fuzil	fuzil	NOUN	O	
+3	ainda	ainda	ADV	O	
+4	estava	estar	AUX	O	
+5	no	em o	ADP	O	
+6	coldre	coldre	NOUN	O	
+7	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	,	,	PUNCT	O	
+3	apesar	apesar	ADV	O	
+4	de	de	ADP	O	
+5	sua	seu	DET	O	
+6	pequena	pequeno	ADJ	O	
+7	estatura	estatura	NOUN	O	
+8	,	,	PUNCT	O	
+9	era	ser	AUX	O	
+10	um	um	DET	O	
+11	homem	homem	NOUN	O	
+12	corajoso	corajoso	ADJ	O	
+13	.	.	PUNCT	O	
+
+1	Empunhou	Empunhou	PROPN	O	
+2	o	o	DET	O	
+3	sabre	sabre	NOUN	O	
+4	e	e	CCONJ	O	
+5	lançou	lançar	VERB	O	
+6	o	o	DET	O	
+7	cavalo	cavalo	NOUN	O	
+8	sobre	sobre	ADP	O	
+9	o	o	DET	O	
+10	tártaro	tártaro	NOUN	O	
+11	vermelho	vermelho	ADJ	O	
+12	.	.	PUNCT	O	
+
+1	Pensava	Pensava	VERB	O	
+2	:	:	PUNCT	O	
+
+1	“	“	PUNCT	O	
+
+1	Ou	ou	CCONJ	O	
+2	o	ele	PRON	O	
+3	derrubo	derrubo	VERB	O	
+4	com	com	ADP	O	
+5	o	o	DET	O	
+6	cavalo	cavalo	NOUN	O	
+7	,	,	PUNCT	O	
+8	ou	ou	CCONJ	O	
+9	o	o	DET	O	
+10	abato	abato	NOUN	O	
+11	com	com	ADP	O	
+12	o	o	DET	O	
+13	sabre	sabre	NOUN	O	
+14	”	”	PUNCT	O	
+15	.	.	PUNCT	O	
+
+1	Mas	mas	CCONJ	O	
+2	os	o	DET	O	
+3	tártaros	tártaro	NOUN	O	
+4	que	que	PRON	O	
+5	galopavam	galopar	VERB	O	
+6	à	a o	ADP	O	
+7	sua	seu	DET	O	
+8	retaguarda	retaguarda	NOUN	O	
+9	,	,	PUNCT	O	
+10	fizeram	fazer	VERB	O	
+11	fogo	fogo	NOUN	O	
+12	,	,	PUNCT	O	
+13	e	e	CCONJ	O	
+14	atingiram	atingir	VERB	O	
+15	o	o	DET	O	
+16	cavalo	cavalo	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	animal	animal	NOUN	O	
+3	tombou	tombar	VERB	O	
+4	e	e	CCONJ	O	
+5	Giline	Giline	PROPN	B	PER
+6	ficou	ficar	VERB	O	
+7	com	com	ADP	O	
+8	a	o	DET	O	
+9	perna	perna	NOUN	O	
+10	presa	presa	VERB	O	
+11	sob	sob	ADP	O	
+12	a	o	DET	O	
+13	montada	montada	NOUN	O	
+14	.	.	PUNCT	O	
+
+1	Quis	Quis	VERB	B	PER
+2	levantar-se	levantar se	VERB	O	
+3	,	,	PUNCT	O	
+4	mas	mas	CCONJ	O	
+5	já	já	ADV	O	
+6	dois	dois	NUM	O	
+7	tártaros	tártaro	NOUN	O	
+8	mergulhavam	mergulhar	VERB	O	
+9	sobre	sobre	ADP	O	
+10	ele	ele	PRON	O	
+11	.	.	PUNCT	O	
+
+1	Deu	Deu	VERB	O	
+2	um	um	DET	O	
+3	salto	salto	NOUN	O	
+4	e	e	CCONJ	O	
+5	desembaraçou-se	desembaraçou-se	VERB	O	
+6	dos	de o	ADP	O	
+7	inimigos	inimigo	NOUN	O	
+8	;	;	PUNCT	O	
+9	mas	mas	CCONJ	O	
+10	outros	outro	DET	O	
+11	3	3	NUM	O	
+12	saltaram	saltar	VERB	O	
+13	dos	de o	ADP	O	
+14	cavalos	cavalo	NOUN	O	
+15	e	e	CCONJ	O	
+16	começaram	começar	VERB	O	
+17	a	a	SCONJ	O	
+18	espancá-lo	espancar ele	VERB	O	
+19	com	com	ADP	O	
+20	a	o	DET	O	
+21	coronha	coronha	NOUN	O	
+22	dos	de o	ADP	O	
+23	fuzis	fuzil	NOUN	O	
+24	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	tártaros	tártaro	NOUN	O	
+3	aprisionaram-no	aprisionaram-no	PROPN	O	
+4	.	.	PUNCT	O	
+
+1	Tiraram	Tiraram	VERB	O	
+2	das	de o	ADP	O	
+3	celas	cela	NOUN	O	
+4	algumas	algum	DET	O	
+5	cilhas	cilhas	NOUN	O	
+6	de	de	ADP	O	
+7	reserva	reserva	NOUN	O	
+8	,	,	PUNCT	O	
+9	puxaram-lhe	puxaram-lhe	VERB	O	
+10	os	o	DET	O	
+11	braços	braço	NOUN	O	
+12	para	para	ADP	O	
+13	trás	trás	ADV	O	
+14	das	de o	ADP	O	
+15	costas	costa	NOUN	O	
+16	,	,	PUNCT	O	
+17	amarraram-nos	amarraram-nos	VERB	O	
+18	firmemente	firmemente	ADV	O	
+19	e	e	CCONJ	O	
+20	prenderam-no	prenderam-no	VERB	O	
+21	a	a	ADP	O	
+22	uma	um	DET	O	
+23	sela	sela	NOUN	O	
+24	.	.	PUNCT	O	
+
+1	Tomaram-lhe	Tomaram-lhe	VERB	O	
+2	o	o	DET	O	
+3	chapéu	chapéu	NOUN	O	
+4	de	de	ADP	O	
+5	peles	pele	NOUN	O	
+6	e	e	CCONJ	O	
+7	as	o	DET	O	
+8	botas	bota	NOUN	O	
+9	e	e	CCONJ	O	
+10	rasgaram-lhe	rasgaram-lhe	VERB	O	
+11	todo	todo	DET	O	
+12	o	o	DET	O	
+13	vestuário	vestuário	NOUN	O	
+14	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	contemplou	contemplar	VERB	O	
+3	o	o	DET	O	
+4	seu	seu	DET	O	
+5	cavalo	cavalo	NOUN	O	
+6	;	;	PUNCT	O	
+
+1	tal	tal	ADV	O	
+2	como	como	SCONJ	O	
+3	tinha	ter	AUX	O	
+4	caído	cair	VERB	O	
+5	o	o	DET	O	
+6	pobre	pobre	ADJ	O	
+7	animal	animal	ADJ	O	
+8	,	,	PUNCT	O	
+9	assim	assim	ADV	O	
+10	jazia	jaziar	VERB	O	
+11	pelo	por o	ADP	O	
+12	chão	chão	NOUN	O	
+13	,	,	PUNCT	O	
+14	agitava	agitar	VERB	O	
+15	espasmodicamente	espasmodicamente	NOUN	O	
+16	as	o	DET	O	
+17	patas	pata	NOUN	O	
+18	que	que	PRON	O	
+19	não	não	ADV	O	
+20	podia	poder	VERB	O	
+21	firmar	firmar	VERB	O	
+22	no	em o	ADP	O	
+23	solo	solo	NOUN	O	
+24	;	;	PUNCT	O	
+25	tinha	ter	VERB	O	
+26	um	um	DET	O	
+27	buraco	buraco	NOUN	O	
+28	na	em o	ADP	O	
+29	cabeça	cabeça	NOUN	O	
+30	do	de o	ADP	O	
+31	qual	qual	PRON	O	
+32	jorrava	jorrar	VERB	O	
+33	um	um	DET	O	
+34	tal	tal	DET	O	
+35	jato	jato	NOUN	O	
+36	de	de	ADP	O	
+37	sangue	sangue	NOUN	O	
+38	negro	negro	ADJ	O	
+39	que	que	PRON	O	
+40	,	,	PUNCT	O	
+41	numa	em um	ADP	O	
+42	superfície	superfície	NOUN	O	
+43	de	de	ADP	O	
+44	cerca	cerca	ADV	O	
+45	de	de	ADP	O	
+46	1	1	NUM	O	
+47	m^2	m^2	PROPN	O	
+48	a	o	DET	O	
+49	terra	terra	NOUN	O	
+50	estava	estar	AUX	O	
+51	toda	todo	DET	O	
+52	ensopada	ensopada	NOUN	O	
+53	.	.	PUNCT	O	
+
+1	Um	um	DET	O	
+2	tártaro	tártaro	NOUN	O	
+3	aproximou-se	aproximar se	VERB	O	
+4	do	de o	ADP	O	
+5	cavalo	cavalo	NOUN	O	
+6	,	,	PUNCT	O	
+7	tirou-lhe	tirou-lhe	VERB	O	
+8	a	o	DET	O	
+9	sela	sela	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	animal	animal	NOUN	O	
+3	ainda	ainda	ADV	O	
+4	esperneava	espernear	VERB	O	
+5	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	tártaro	tártaro	NOUN	O	
+3	empunhou	empunhar	VERB	O	
+4	um	um	DET	O	
+5	punhal	punhal	NOUN	O	
+6	e	e	CCONJ	O	
+7	cravou-lho	cravou-lho	VERB	O	
+8	no	em o	ADP	O	
+9	pescoço	pescoço	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	As	o	DET	O	
+2	narinas	narina	NOUN	O	
+3	contraíram-se	contraíram se	VERB	O	
+4	num	em um	ADP	O	
+5	relincho	relincho	NOUN	O	
+6	abafado	abafado	ADJ	O	
+7	;	;	PUNCT	O	
+8	um	um	DET	O	
+9	estremecimento	estremecimento	NOUN	O	
+10	e	e	CCONJ	O	
+11	logo	logo	ADV	O	
+12	depois	depois	ADV	O	
+13	o	o	DET	O	
+14	animal	animal	NOUN	O	
+15	expirou	expirar	VERB	O	
+16	.	.	PUNCT	O	
+
+1	Então	então	ADV	O	
+2	,	,	PUNCT	O	
+3	o	o	DET	O	
+4	tártaro	tártaro	NOUN	O	
+5	de	de	ADP	O	
+6	barba	barba	NOUN	O	
+7	vermelha	vermelho	ADJ	O	
+8	montou	montar	VERB	O	
+9	sobre	sobre	ADP	O	
+10	o	o	DET	O	
+11	seu	seu	DET	O	
+12	cavalo	cavalo	NOUN	O	
+13	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	outros	outro	DET	O	
+3	escarrancharam	escarrancharam	NOUN	O	
+4	Giline	Giline	PROPN	B	PER
+5	na	em o	ADP	O	
+6	garupa	garupa	NOUN	O	
+7	e	e	CCONJ	O	
+8	,	,	PUNCT	O	
+9	para	para	SCONJ	O	
+10	evitar	evitar	VERB	O	
+11	de	de	SCONJ	O	
+12	caísse	caísse	VERB	O	
+13	,	,	PUNCT	O	
+14	amarraram-no	amarraram-no	ADV	O	
+15	à	a o	ADP	O	
+16	cintura	cintura	NOUN	O	
+17	do	de o	ADP	O	
+18	tártaro	tártaro	NOUN	O	
+19	com	com	ADP	O	
+20	uma	um	DET	O	
+21	correia	correia	NOUN	O	
+22	.	.	PUNCT	O	
+
+1	Dirigiram-se	Dirigiram-se	VERB	O	
+2	depois	depois	ADV	O	
+3	para	para	ADP	O	
+4	as	o	DET	O	
+5	montanhas	montanha	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	LOC
+2	nada	nada	PRON	O	
+3	mais	mais	ADV	O	
+4	via	ver	VERB	O	
+5	a	o	DET	O	
+6	sua	seu	DET	O	
+7	frente	frente	NOUN	O	
+8	,	,	PUNCT	O	
+9	o	o	DET	O	
+10	sangue	sangue	NOUN	O	
+11	coagulara-se	coagulara-se	PROPN	O	
+12	sobre	sobre	ADP	O	
+13	os	o	DET	O	
+14	olhos	olho	NOUN	O	
+15	;	;	PUNCT	O	
+16	não	não	ADV	O	
+17	podia	poder	VERB	O	
+18	nem	nem	ADV	O	
+19	manter-se	manter se	VERB	O	
+20	direito	direito	NOUN	O	
+21	sobre	sobre	ADP	O	
+22	a	o	DET	O	
+23	montada	montada	NOUN	O	
+24	,	,	PUNCT	O	
+25	nem	nem	CCONJ	O	
+26	limpar	limpar	VERB	O	
+27	o	o	DET	O	
+28	ferimento	ferimento	NOUN	O	
+29	;	;	PUNCT	O	
+30	seus	seu	DET	O	
+31	braços	braço	NOUN	O	
+32	estavam	estar	AUX	O	
+33	tão	tão	ADV	O	
+34	apertados	apertado	ADJ	O	
+35	que	que	SCONJ	O	
+36	as	o	DET	O	
+37	clavículas	clavícula	NOUN	O	
+38	ameaçavam	ameaçar	VERB	O	
+39	quebrar	quebrar	VERB	O	
+40	.	.	PUNCT	O	
+
+1	Chegaram	Chegaram	VERB	O	
+2	ao	a o	ADP	O	
+3	aoul	aoul	NOUN	B	LOC
+4	(	(	PUNCT	O	
+5	aldeia	aldeia	NOUN	O	
+6	tártara	tártar	ADJ	O	
+7	)	)	PUNCT	O	
+8	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	tártaros	tártaro	NOUN	O	
+3	apearam-se	apearam-se	VERB	O	
+4	;	;	PUNCT	O	
+
+1	surgiram	surgir	VERB	O	
+2	as	o	DET	O	
+3	crianças	criança	NOUN	O	
+4	;	;	PUNCT	O	
+5	cercaram	cercar	VERB	O	
+6	Giline	Giline	PROPN	B	PER
+7	e	e	CCONJ	O	
+8	riram	rir	VERB	O	
+9	e	e	CCONJ	O	
+10	gracejaram	gracejar	VERB	O	
+11	;	;	PUNCT	O	
+12	lançaram-lhe	lançaram-lhe	VERB	O	
+13	pedras	pedra	NOUN	O	
+14	.	.	PUNCT	O	
+
+1	Um	um	DET	O	
+2	artesão	artesão	NOUN	O	
+3	dispersou	dispersar	VERB	O	
+4	os	o	DET	O	
+5	meninos	menino	NOUN	O	
+6	;	;	PUNCT	O	
+7	retirou	retirar	VERB	O	
+8	Giline	Giline	PROPN	B	PER
+9	de	de	ADP	O	
+10	cima	cima	ADP	O	
+11	do	de o	ADP	O	
+12	cavalo	cavalo	NOUN	O	
+13	e	e	CCONJ	O	
+14	chamou	chamar	VERB	O	
+15	um	um	DET	O	
+16	companheiro	companheiro	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	Depois	depois	ADV	O	
+2	,	,	PUNCT	O	
+3	um	um	DET	O	
+4	Nogai	Nogai	PROPN	B	LOC
+5	(	(	PUNCT	O	
+6	os	o	DET	O	
+7	tártaros	tártaro	NOUN	O	
+8	Nogaís	Nogaís	PROPN	B	PER
+9	habitam	habitar	VERB	O	
+10	as	o	DET	O	
+11	estepes	estepes	NOUN	O	
+12	ao	a o	ADP	O	
+13	norte	norte	NOUN	O	
+14	do	de o	ADP	O	
+15	Cáucaso	Cáucaso	PROPN	B	LOC
+16	)	)	PUNCT	O	
+17	com	com	ADP	O	
+18	as	o	DET	O	
+19	maçãs	maçã	NOUN	O	
+20	do	de o	ADP	O	
+21	rosto	rosto	NOUN	O	
+22	muito	muito	ADV	O	
+23	salientes	saliente	ADJ	O	
+24	avançou	avançar	VERB	O	
+25	.	.	PUNCT	O	
+
+1	Vestia	Vestia	NOUN	O	
+2	uma	um	DET	O	
+3	camisa	camisa	NOUN	O	
+4	esfarrapada	esfarrapar	VERB	O	
+5	que	que	PRON	O	
+6	lhe	ele	PRON	O	
+7	deixava	deixar	VERB	O	
+8	o	o	DET	O	
+9	peito	peito	NOUN	O	
+10	totalmente	totalmente	ADV	O	
+11	desnudo	desnudo	ADJ	O	
+12	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	tártaro	tártaro	NOUN	O	
+3	ordenou-lhe	ordenar ele	VERB	O	
+4	algo	algo	PRON	O	
+5	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	artesão	artesão	NOUN	O	
+3	voltou	voltar	VERB	O	
+4	mais	mais	ADV	O	
+5	tarde	tarde	ADV	O	
+6	com	com	ADP	O	
+7	um	um	DET	O	
+8	cepo	cepo	NOUN	O	
+9	para	para	ADP	O	
+10	os	o	DET	O	
+11	pés	pé	NOUN	O	
+12	:	:	PUNCT	O	
+13	duas	dois	NUM	O	
+14	pesadas	pesar	ADJ	O	
+15	pranchas	prancha	NOUN	O	
+16	de	de	ADP	O	
+17	carvalho	Carvalho	PROPN	B	PER
+18	jungidas	jungir	VERB	I	PER
+19	com	com	ADP	O	
+20	anéis	anel	NOUN	O	
+21	de	de	ADP	O	
+22	ferro	ferro	NOUN	O	
+23	.	.	PUNCT	O	
+
+1	Um	um	NUM	O	
+2	dos	de o	ADP	O	
+3	anéis	anéis	NOUN	O	
+4	terminava	terminar	VERB	O	
+5	numa	em um	ADP	O	
+6	argola	argola	NOUN	O	
+7	menor	pequeno	ADJ	O	
+8	na	em o	ADP	O	
+9	qual	qual	PRON	O	
+10	era	ser	AUX	O	
+11	encaixado	encaixar	VERB	O	
+12	um	um	DET	O	
+13	cadeado	cadeado	NOUN	O	
+14	.	.	PUNCT	O	
+
+1	Colocaram	Colocaram	VERB	O	
+2	o	o	DET	O	
+3	cepo	cepo	NOUN	O	
+4	nos	em o	ADP	O	
+5	seus	seu	DET	O	
+6	pés	pé	NOUN	O	
+7	e	e	CCONJ	O	
+8	o	ele	PRON	O	
+9	arrastaram	arrastar	VERB	O	
+10	até	até	ADP	O	
+11	a	o	DET	O	
+12	entrada	entrada	NOUN	O	
+13	de	de	ADP	O	
+14	uma	um	DET	O	
+15	cabana	cabana	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	Empurraram-no	Empurraram-no	VERB	O	
+2	para	para	ADP	O	
+3	dentro	dentro	ADV	O	
+4	e	e	CCONJ	O	
+5	fecharam	fechar	VERB	O	
+6	a	o	DET	O	
+7	porta	porta	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	caiu	cair	VERB	O	
+3	sobre	sobre	ADP	O	
+4	um	um	DET	O	
+5	monte	monte	NOUN	O	
+6	de	de	ADP	O	
+7	esterco	esterco	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	Arrastou-se	Arrastou-se	VERB	O	
+2	,	,	PUNCT	O	
+3	tateou	tatear	VERB	O	
+4	na	em o	ADP	O	
+5	escuridão	escuridão	NOUN	O	
+6	em	em	ADP	O	
+7	busca	busca	NOUN	O	
+8	de	de	ADP	O	
+9	um	um	DET	O	
+10	local	local	NOUN	O	
+11	mais	mais	ADV	O	
+12	fofo	fofo	ADJ	O	
+13	e	e	CCONJ	O	
+14	deitou	deitar	VERB	O	
+15	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	não	não	ADV	O	
+3	conseguiu	conseguir	VERB	O	
+4	adormecer	adormecer	VERB	O	
+5	;	;	PUNCT	O	
+
+1	viu	ver	VERB	O	
+2	a	o	DET	O	
+3	luz	luz	NOUN	O	
+4	do	de o	ADP	O	
+5	dia	dia	NOUN	O	
+6	por	por	ADP	O	
+7	uma	um	DET	O	
+8	fenda	fenda	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Sentia	Sentia	VERB	O	
+2	sede	sede	NOUN	O	
+3	.	.	PUNCT	O	
+
+1	Escutou	escutar	VERB	O	
+2	passos	passo	NOUN	O	
+3	e	e	CCONJ	O	
+4	pouco	pouco	ADV	O	
+5	depois	depois	ADV	O	
+6	abriram	abrir	VERB	O	
+7	a	o	DET	O	
+8	porta	porta	NOUN	O	
+9	da	de o	ADP	O	
+10	cabana	Cabana	NOUN	O	
+11	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	tártaro	tártaro	NOUN	O	
+3	vermelho	vermelho	ADJ	O	
+4	entrou	entrar	VERB	O	
+5	,	,	PUNCT	O	
+6	acompanhado	acompanhar	VERB	O	
+7	por	por	ADP	O	
+8	outro	outro	PRON	O	
+9	,	,	PUNCT	O	
+10	de	de	ADP	O	
+11	estatura	estatura	NOUN	O	
+12	menor	pequeno	ADJ	O	
+13	e	e	CCONJ	O	
+14	mais	mais	ADV	O	
+15	escuro	escuro	ADJ	O	
+16	;	;	PUNCT	O	
+17	tinha	ter	VERB	O	
+18	feições	feição	NOUN	O	
+19	alegres	alegre	ADJ	O	
+20	e	e	CCONJ	O	
+21	ria	rir	VERB	O	
+22	constantemente	constantemente	ADV	O	
+23	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	tártaro	tártaro	NOUN	O	
+3	moreno	moreno	ADJ	O	
+4	estava	estar	AUX	O	
+5	bem	bem	ADV	O	
+6	vestido	vestido	ADJ	O	
+7	:	:	PUNCT	O	
+8	capa	capa	NOUN	O	
+9	curta	curto	ADJ	O	
+10	de	de	ADP	O	
+11	seda	seda	NOUN	O	
+12	azul-escuro	azul-escuro	ADJ	O	
+13	estava	estar	AUX	O	
+14	ornada	ornado	ADJ	O	
+15	com	com	ADP	O	
+16	um	um	DET	O	
+17	galão	galão	NOUN	O	
+18	.	.	PUNCT	O	
+
+1	Na	em o	ADP	O	
+2	cintura	cintura	NOUN	O	
+3	,	,	PUNCT	O	
+4	um	um	DET	O	
+5	grande	grande	ADJ	O	
+6	punhal	punhal	NOUN	O	
+7	de	de	ADP	O	
+8	prata	prata	NOUN	O	
+9	e	e	CCONJ	O	
+10	sobre	sobre	ADP	O	
+11	os	o	DET	O	
+12	sapatos	sapato	NOUN	O	
+13	de	de	ADP	O	
+14	pele	pele	NOUN	O	
+15	finíssima	finíssimo	ADJ	O	
+16	,	,	PUNCT	O	
+17	calçava	calçar	VERB	O	
+18	outros	outro	DET	O	
+19	mais	mais	ADV	O	
+20	resistentes	resistente	ADJ	O	
+21	.	.	PUNCT	O	
+
+1	Usava	usava	VERB	O	
+2	um	um	DET	O	
+3	enorme	enorme	ADJ	O	
+4	chapéu	chapéu	NOUN	O	
+5	de	de	ADP	O	
+6	pele	pele	NOUN	O	
+7	de	de	ADP	O	
+8	carneiro	carneiro	NOUN	O	
+9	branco	branco	ADJ	O	
+10	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	levando	levar	VERB	O	
+3	as	o	DET	O	
+4	mãos	mão	NOUN	O	
+5	à	a o	ADP	O	
+6	boca	boca	NOUN	O	
+7	,	,	PUNCT	O	
+8	indicou	indicar	VERB	O	
+9	que	que	SCONJ	O	
+10	tinha	ter	VERB	O	
+11	sede	sede	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	moreno	moreno	NOUN	O	
+3	compreendeu	compreender	VERB	O	
+4	;	;	PUNCT	O	
+5	começou	começar	VERB	O	
+6	a	a	SCONJ	O	
+7	rir	rir	VERB	O	
+8	,	,	PUNCT	O	
+9	olhou	olhar	VERB	O	
+10	pela	por o	ADP	O	
+11	porta	porta	NOUN	O	
+12	e	e	CCONJ	O	
+13	chamou	chamar	VERB	O	
+14	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Diná	Diná	PROPN	B	MISC
+3	!	!	PUNCT	I	MISC
+
+1	Acorreu	Acorreu	PROPN	O	
+2	uma	um	DET	O	
+3	mocinha	mocinha	NOUN	O	
+4	franzina	franzino	ADJ	O	
+5	,	,	PUNCT	O	
+6	talvez	talvez	ADV	O	
+7	uns	um	DET	O	
+8	13	13	NUM	O	
+9	anos	ano	NOUN	O	
+10	e	e	CCONJ	O	
+11	feições	feição	NOUN	O	
+12	semelhantes	semelhante	ADJ	O	
+13	ao	a o	ADP	O	
+14	tártaro	tártaro	NOUN	O	
+15	moreno	moreno	ADJ	O	
+16	.	.	PUNCT	O	
+
+1	Era	ser	AUX	O	
+2	evidente	evidente	ADJ	O	
+3	que	que	SCONJ	O	
+4	era	ser	AUX	O	
+5	sua	seu	DET	O	
+6	filha	filha	NOUN	O	
+7	.	.	PUNCT	O	
+
+1	Tinha	ter	VERB	O	
+2	,	,	PUNCT	O	
+3	como	como	ADP	O	
+4	ele	ele	PRON	O	
+5	,	,	PUNCT	O	
+6	uns	um	DET	O	
+7	olhos	olho	NOUN	O	
+8	negros	negro	ADJ	O	
+9	e	e	CCONJ	O	
+10	brilhantes	brilhante	ADJ	O	
+11	e	e	CCONJ	O	
+12	rosto	rosto	NOUN	O	
+13	sempre	sempre	ADV	O	
+14	alegre	alegre	ADJ	O	
+15	.	.	PUNCT	O	
+
+1	Vestia	Vestia	VERB	O	
+2	um	um	DET	O	
+3	longo	longo	ADJ	O	
+4	roupão	roupão	NOUN	O	
+5	azul	azul	ADJ	O	
+6	,	,	PUNCT	O	
+7	com	com	ADP	O	
+8	mangas	manga	NOUN	O	
+9	largas	largo	ADJ	O	
+10	e	e	CCONJ	O	
+11	sem	sem	ADP	O	
+12	cintura	cintura	NOUN	O	
+13	.	.	PUNCT	O	
+
+1	Nas	em o	ADP	O	
+2	abas	aba	NOUN	O	
+3	,	,	PUNCT	O	
+4	no	em o	ADP	O	
+5	peito	peito	NOUN	O	
+6	e	e	CCONJ	O	
+7	mangas	manga	NOUN	O	
+8	,	,	PUNCT	O	
+9	seu	seu	DET	O	
+10	roupão	roupão	NOUN	O	
+11	estava	estar	AUX	O	
+12	ornado	ornado	ADJ	O	
+13	com	com	ADP	O	
+14	fitas	fita	NOUN	O	
+15	vermelhas	vermelho	ADJ	O	
+16	.	.	PUNCT	O	
+
+1	Usava	usava	VERB	O	
+2	calças	calça	NOUN	O	
+3	compridas	comprir	ADJ	O	
+4	e	e	CCONJ	O	
+5	uns	um	DET	O	
+6	sapatinhos	sapatinho	NOUN	O	
+7	;	;	PUNCT	O	
+8	e	e	CCONJ	O	
+9	sobre	sobre	ADP	O	
+10	esses	esse	DET	O	
+11	sapatinhos	sapatinho	NOUN	O	
+12	,	,	PUNCT	O	
+13	uns	um	DET	O	
+14	outros	outro	PRON	O	
+15	de	de	ADP	O	
+16	salto	salto	NOUN	O	
+17	alto	alto	ADJ	O	
+18	;	;	PUNCT	O	
+19	em	em	ADP	O	
+20	volta	volta	NOUN	O	
+21	do	de o	ADP	O	
+22	pescoço	pescoço	NOUN	O	
+23	,	,	PUNCT	O	
+24	um	um	DET	O	
+25	colar	colar	NOUN	O	
+26	feio	feio	ADJ	O	
+27	de	de	ADP	O	
+28	moedas	moeda	NOUN	O	
+29	russas	russo	ADJ	O	
+30	de	de	ADP	O	
+31	meio	meio	PROPN	O	
+32	rublo	rublo	NOUN	O	
+33	.	.	PUNCT	O	
+
+1	Tinha	ter	VERB	O	
+2	a	o	DET	O	
+3	cabeça	cabeça	NOUN	O	
+4	descoberta	descobrir	VERB	O	
+5	;	;	PUNCT	O	
+6	sua	seu	DET	O	
+7	cabeleira	cabeleira	NOUN	O	
+8	negra	negro	ADJ	O	
+9	estava	estar	AUX	O	
+10	presa	preso	ADJ	O	
+11	com	com	ADP	O	
+12	uma	um	DET	O	
+13	fita	fita	NOUN	O	
+14	da	de o	ADP	O	
+15	qual	qual	PRON	O	
+16	pendiam	pender	VERB	O	
+17	pequenos	pequeno	ADJ	O	
+18	adornos	adorno	NOUN	O	
+19	de	de	ADP	O	
+20	metal	metal	NOUN	O	
+21	e	e	CCONJ	O	
+22	um	um	DET	O	
+23	rublo	rublo	NOUN	O	
+24	de	de	ADP	O	
+25	prata	prata	NOUN	O	
+26	.	.	PUNCT	O	
+
+1	Seu	seu	DET	O	
+2	pai	pai	NOUN	O	
+3	lhe	ele	PRON	O	
+4	deu	dar	VERB	O	
+5	uma	um	DET	O	
+6	ordem	ordem	NOUN	O	
+7	qualquer	qualquer	DET	O	
+8	.	.	PUNCT	O	
+
+1	Ela	ela	PRON	O	
+2	se	se	PRON	O	
+3	retirou	retirar	VERB	O	
+4	,	,	PUNCT	O	
+5	voltando	voltar	VERB	O	
+6	pouco	pouco	ADV	O	
+7	depois	depois	ADV	O	
+8	com	com	ADP	O	
+9	um	um	DET	O	
+10	cântaro	cântaro	NOUN	O	
+11	de	de	ADP	O	
+12	latão	latão	NOUN	O	
+13	.	.	PUNCT	O	
+
+1	Deu-lhe	Deu-lhe	PROPN	O	
+2	de	de	SCONJ	O	
+3	beber	beber	VERB	O	
+4	,	,	PUNCT	O	
+5	agachando-se	agachar se	VERB	O	
+6	;	;	PUNCT	O	
+7	curvara-se	curvara se	VERB	O	
+8	de	de	ADP	O	
+9	tal	tal	DET	O	
+10	forma	forma	NOUN	O	
+11	que	que	SCONJ	O	
+12	seus	seu	DET	O	
+13	olhos	olho	NOUN	O	
+14	ficavam	ficar	VERB	O	
+15	mais	mais	ADV	O	
+16	altos	alto	ADJ	O	
+17	do	de o	ADP	O	
+18	que	que	PRON	O	
+19	os	o	DET	O	
+20	ombros	ombro	NOUN	O	
+21	.	.	PUNCT	O	
+
+1	Abriu	Abrir	VERB	O	
+2	os	o	DET	O	
+3	olhos	olho	NOUN	O	
+4	,	,	PUNCT	O	
+5	espantada	espantar	VERB	O	
+6	;	;	PUNCT	O	
+7	observava	observar	VERB	O	
+8	Giline	Giline	PROPN	B	PER
+9	bebendo	beber	VERB	O	
+10	,	,	PUNCT	O	
+11	como	como	SCONJ	O	
+12	se	se	SCONJ	O	
+13	ele	ele	PRON	O	
+14	fosse	ser	AUX	O	
+15	um	um	DET	O	
+16	animal	animal	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	devolveu	devolver	VERB	O	
+3	o	o	DET	O	
+4	cântaro	cântaro	NOUN	O	
+5	.	.	PUNCT	O	
+
+1	Ela	ela	PRON	O	
+2	saltou	saltar	VERB	O	
+3	para	para	ADP	O	
+4	trás	trás	ADV	O	
+5	,	,	PUNCT	O	
+6	como	como	ADP	O	
+7	uma	um	DET	O	
+8	cabrita	cabrita	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Seu	seu	DET	O	
+2	pai	pai	NOUN	O	
+3	riu	riu	VERB	O	
+4	.	.	PUNCT	O	
+
+1	Levou	Levou	VERB	O	
+2	o	o	DET	O	
+3	cântaro	cântaro	NOUN	O	
+4	,	,	PUNCT	O	
+5	correu	correr	VERB	O	
+6	,	,	PUNCT	O	
+7	trouxe	trazer	VERB	O	
+8	pão	pão	NOUN	O	
+9	sem	sem	ADP	O	
+10	levedura	levedura	NOUN	O	
+11	numa	em um	ADP	O	
+12	pequena	pequeno	ADJ	O	
+13	bandeja	bandeja	NOUN	O	
+14	circular	circular	ADJ	O	
+15	,	,	PUNCT	O	
+16	sentou-se	sentar se	VERB	O	
+17	de	de	ADP	O	
+18	novo	novo	NOUN	O	
+19	com	com	ADP	O	
+20	a	o	DET	O	
+21	cabeça	cabeça	NOUN	O	
+22	mais	mais	ADV	O	
+23	baixa	baixo	ADJ	O	
+24	que	que	SCONJ	O	
+25	os	o	DET	O	
+26	joelhos	joelho	NOUN	O	
+27	.	.	PUNCT	O	
+
+1	Não	não	ADV	O	
+2	baixava	baixar	VERB	O	
+3	os	o	DET	O	
+4	olhos	olho	NOUN	O	
+5	;	;	PUNCT	O	
+6	fitava	fitar	VERB	O	
+7	sem	sem	ADP	O	
+8	timidez	timidez	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	tártaros	tártaro	NOUN	O	
+3	retiraram-se	retiraram-se	VERB	O	
+4	;	;	PUNCT	O	
+5	fecharam	fechar	VERB	O	
+6	a	o	DET	O	
+7	porta	porta	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	Pouco	pouco	ADV	O	
+2	depois	depois	ADV	O	
+3	entrou	entrar	VERB	O	
+4	um	um	DET	O	
+5	Nogaí	Nogaí	PROPN	B	MISC
+6	que	que	SCONJ	O	
+7	disse	dizer	VERB	O	
+8	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Aída	Aída	PROPN	B	MISC
+3	!	!	PUNCT	I	MISC
+
+1	Senhor	Senhor	PROPN	O	
+2	Aída	Aída	PROPN	O	
+3	!	!	PUNCT	O	
+
+1	Mas	mas	CCONJ	O	
+2	também	também	ADV	O	
+3	ele	ele	PRON	O	
+4	não	não	ADV	O	
+5	falava	falar	VERB	O	
+6	russo	russo	ADJ	O	
+7	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	entendeu	entender	VERB	O	
+3	apenas	apenas	ADV	O	
+4	que	que	SCONJ	O	
+5	lhe	ele	PRON	O	
+6	ordenava	ordenar	VERB	O	
+7	que	que	SCONJ	O	
+8	o	ele	PRON	O	
+9	seguisse	seguir	VERB	O	
+10	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	saiu	sair	VERB	O	
+3	com	com	ADP	O	
+4	o	o	DET	O	
+5	cepo	cepo	NOUN	O	
+6	;	;	PUNCT	O	
+7	mancava	mancar	VERB	O	
+8	;	;	PUNCT	O	
+9	mal	mal	ADV	O	
+10	podia	poder	VERB	O	
+11	caminhar	caminhar	VERB	O	
+12	,	,	PUNCT	O	
+13	de	de	ADP	O	
+14	tal	tal	DET	O	
+15	forma	forma	NOUN	O	
+16	seu	seu	DET	O	
+17	pé	pé	NOUN	O	
+18	estava	estar	AUX	O	
+19	preso	preso	ADJ	O	
+20	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	seguiu	seguir	VERB	O	
+3	o	o	DET	O	
+4	Nogaí	Nogaí	PROPN	B	ORG
+5	,	,	PUNCT	O	
+6	viu	ver	VERB	O	
+7	então	então	ADV	O	
+8	que	que	SCONJ	O	
+9	se	se	PRON	O	
+10	encontrava	encontrar	VERB	O	
+11	numa	em um	ADP	O	
+12	aldeia	aldeia	NOUN	O	
+13	tártara	tártar	ADJ	O	
+14	com	com	ADP	O	
+15	dez	dez	NUM	O	
+16	casas	casa	NOUN	O	
+17	e	e	CCONJ	O	
+18	a	o	DET	O	
+19	respectiva	respectivo	ADJ	O	
+20	mesquita	mesquita	NOUN	O	
+21	com	com	ADP	O	
+22	uma	um	DET	O	
+23	torre	torre	NOUN	O	
+24	.	.	PUNCT	O	
+
+1	À	a o	ADP	O	
+2	porta	porta	NOUN	O	
+3	de	de	ADP	O	
+4	uma	um	NUM	O	
+5	das	de o	ADP	O	
+6	casas	casa	NOUN	O	
+7	,	,	PUNCT	O	
+8	3	3	NUM	O	
+9	cavalos	cavalo	NOUN	O	
+10	selados	selar	VERB	O	
+11	.	.	PUNCT	O	
+
+1	Um	um	DET	O	
+2	rapazinho	rapazinho	NOUN	O	
+3	segurava-os	segurava-os	VERB	O	
+4	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	tártaro	tártaro	NOUN	O	
+3	moreno	moreno	ADJ	O	
+4	saiu	sair	VERB	O	
+5	dessa	de esse	ADP	O	
+6	casa	casa	NOUN	O	
+7	;	;	PUNCT	O	
+8	acenou	acenar	VERB	O	
+9	para	para	SCONJ	O	
+10	que	que	SCONJ	O	
+11	Giline	Giline	PROPN	B	PER
+12	caminhasse	caminhar	VERB	O	
+13	até	até	ADP	O	
+14	ele	ele	PRON	O	
+15	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	entrou	entrar	VERB	O	
+3	na	em o	ADP	O	
+4	casa	casa	NOUN	O	
+5	.	.	PUNCT	O	
+
+1	A	o	DET	O	
+2	sala	sala	NOUN	O	
+3	era	ser	AUX	O	
+4	bonita	bonito	ADJ	O	
+5	.	.	PUNCT	O	
+
+1	As	o	DET	O	
+2	paredes	parede	NOUN	O	
+3	estavam	estar	AUX	O	
+4	cobertas	coberto	ADJ	O	
+5	com	com	ADP	O	
+6	uma	um	DET	O	
+7	argila	argila	NOUN	O	
+8	uniforme	uniforme	ADJ	O	
+9	.	.	PUNCT	O	
+
+1	Reparou	Reparou	VERB	O	
+2	nas	em o	ADP	O	
+3	almofadas	almofada	NOUN	O	
+4	pintadas	pintar	VERB	O	
+5	,	,	PUNCT	O	
+6	nos	em o	ADP	O	
+7	ricos	rico	ADJ	O	
+8	tapetes	tapete	NOUN	O	
+9	sobre	sobre	ADP	O	
+10	os	o	DET	O	
+11	quais	qual	PRON	O	
+12	repousavam	repousar	VERB	O	
+13	os	o	DET	O	
+14	fuzis	fuzil	NOUN	O	
+15	;	;	PUNCT	O	
+16	reparou	reparar	VERB	O	
+17	nas	em o	ADP	O	
+18	pistolas	pistola	NOUN	O	
+19	e	e	CCONJ	O	
+20	nos	em o	ADP	O	
+21	sabres	sabre	NOUN	O	
+22	.	.	PUNCT	O	
+
+1	Sobre	sobre	ADP	O	
+2	uma	um	NUM	O	
+3	das	de o	ADP	O	
+4	paredes	parede	NOUN	O	
+5	,	,	PUNCT	O	
+6	um	um	DET	O	
+7	pequeno	pequeno	ADJ	O	
+8	véu	véu	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	chão	chão	NOUN	O	
+3	era	ser	AUX	O	
+4	terra	terra	NOUN	O	
+5	batida	bater	VERB	O	
+6	,	,	PUNCT	O	
+7	mas	mas	CCONJ	O	
+8	limpo	limpo	ADJ	O	
+9	como	como	ADP	O	
+10	uma	um	DET	O	
+11	eira	eira	NOUN	O	
+12	;	;	PUNCT	O	
+13	um	um	NUM	O	
+14	dos	de o	ADP	O	
+15	cantos	canto	NOUN	O	
+16	estava	estar	AUX	O	
+17	todo	todo	ADV	O	
+18	forrado	forrado	VERB	O	
+19	de	de	ADP	O	
+20	feltro	feltro	NOUN	O	
+21	;	;	PUNCT	O	
+22	sobre	sobre	ADP	O	
+23	o	o	DET	O	
+24	feltro	feltro	NOUN	O	
+25	,	,	PUNCT	O	
+26	tapetes	tapete	NOUN	O	
+27	e	e	CCONJ	O	
+28	sobre	sobre	ADP	O	
+29	estes	este	PRON	O	
+30	,	,	PUNCT	O	
+31	travesseiros	travesseiro	NOUN	O	
+32	de	de	ADP	O	
+33	penas	pena	NOUN	O	
+34	...	...	PUNCT	O	
+
+1	Era	ser	ADV	O	
+2	nesse	em esse	ADP	O	
+3	canto	canto	NOUN	O	
+4	que	que	PRON	O	
+5	se	se	PRON	O	
+6	tinham	ter	AUX	O	
+7	sentado	sentar	VERB	O	
+8	os	o	DET	O	
+9	tártaros	tártaro	NOUN	O	
+10	;	;	PUNCT	O	
+11	o	o	DET	O	
+12	moreno	moreno	PROPN	O	
+13	,	,	PUNCT	O	
+14	o	o	DET	O	
+15	vermelho	vermelho	NOUN	O	
+16	e	e	CCONJ	O	
+17	três	três	NUM	O	
+18	visitantes	visitante	NOUN	O	
+19	.	.	PUNCT	O	
+
+1	Recostavam-se	Recostavam-se	VERB	O	
+2	nas	em o	ADP	O	
+3	almofadas	almofada	NOUN	O	
+4	de	de	ADP	O	
+5	pena	pena	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	Diante	diante	ADV	O	
+2	deles	de eles	PRON	O	
+3	sobre	sobre	ADP	O	
+4	uma	um	DET	O	
+5	pequena	pequeno	ADJ	O	
+6	mesa	mesa	NOUN	O	
+7	redonda	redondo	ADJ	O	
+8	,	,	PUNCT	O	
+9	bolos	bolo	NOUN	O	
+10	de	de	ADP	O	
+11	milho	milho	NOUN	O	
+12	,	,	PUNCT	O	
+13	manteiga	manteiga	NOUN	O	
+14	de	de	ADP	O	
+15	vaga	vaga	NOUN	O	
+16	e	e	CCONJ	O	
+17	um	um	DET	O	
+18	cântaro	cântaro	NOUN	O	
+19	com	com	ADP	O	
+20	buza	buza	NOUN	O	
+21	(	(	PUNCT	O	
+22	bebida	bebida	NOUN	O	
+23	de	de	ADP	O	
+24	farinha	farinha	NOUN	O	
+25	fermentada	fermentar	VERB	O	
+26	)	)	PUNCT	O	
+27	.	.	PUNCT	O	
+
+1	Comiam	Comiam	VERB	O	
+2	com	com	ADP	O	
+3	os	o	DET	O	
+4	dedos	dedo	NOUN	O	
+5	e	e	CCONJ	O	
+6	tinham	ter	VERB	O	
+7	as	o	DET	O	
+8	mãos	mão	NOUN	O	
+9	empastadas	empastadas	VERB	O	
+10	de	de	ADP	O	
+11	manteiga	manteiga	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Conversavam	Conversavam	VERB	O	
+2	;	;	PUNCT	O	
+
+1	então	então	ADV	O	
+2	um	um	NUM	O	
+3	dos	de o	ADP	O	
+4	visitantes	visitante	NOUN	O	
+5	voltou-se	voltar se	VERB	O	
+6	para	para	ADP	O	
+7	Giline	Giline	PROPN	B	LOC
+8	e	e	CCONJ	O	
+9	disse-lhe	disse-lhe	VERB	O	
+10	,	,	PUNCT	O	
+11	em	em	ADP	O	
+12	russo	russo	NOUN	O	
+13	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Kazi	Kazi	PROPN	B	MISC
+3	Mahommed	Mahommed	PROPN	I	MISC
+4	aprisionou-te	aprisionou-te	VERB	O	
+5	–	–	PUNCT	O	
+6	apontou	apontar	VERB	O	
+7	o	o	DET	O	
+8	tártaro	tártaro	NOUN	O	
+9	vermelho	vermelho	ADJ	O	
+10	–	–	PUNCT	O	
+11	e	e	CCONJ	O	
+12	deu-te	deu-te	VERB	O	
+13	a	a	ADP	O	
+14	Abdoul-Mourat	Abdoul-Mourat	PROPN	B	LOC
+15	–	–	PUNCT	O	
+16	apontou	apontar	VERB	O	
+17	o	o	DET	O	
+18	moreno	moreno	NOUN	O	
+
+1	–	–	PUNCT	O	
+2	Abdoul	Abdoul	PROPN	B	LOC
+3	Mourat	Mourat	PROPN	I	LOC
+4	é	ser	AUX	O	
+5	agora	agora	ADV	O	
+6	o	o	DET	O	
+7	teu	teu	DET	O	
+8	senhor	senhor	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	conservou-se	conservar se	VERB	O	
+3	em	em	ADP	O	
+4	silêncio	silêncio	NOUN	O	
+5	.	.	PUNCT	O	
+
+1	Abdoul	abdoul	PROPN	B	LOC
+2	tomou	tomar	VERB	O	
+3	a	o	DET	O	
+4	palavra	palavra	NOUN	O	
+5	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	tradutor	tradutor	NOUN	O	
+3	disse	dizer	VERB	O	
+4	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Ele	ele	PRON	O	
+3	ordena	ordenar	VERB	O	
+4	que	que	SCONJ	O	
+5	escrevas	escrevas	VERB	O	
+6	uma	um	DET	O	
+7	carta	carta	NOUN	O	
+8	para	para	ADP	O	
+9	tua	tue	DET	O	
+10	casa	casa	NOUN	O	
+11	,	,	PUNCT	O	
+12	para	para	SCONJ	O	
+13	que	que	SCONJ	O	
+14	daí	de aí	ADV	O	
+15	enviem	enviem	VERB	O	
+16	um	um	DET	O	
+17	resgate	resgate	NOUN	O	
+18	.	.	PUNCT	O	
+
+1	Quando	quando	SCONJ	O	
+2	chegar	chegar	VERB	O	
+3	o	o	DET	O	
+4	dinheiro	dinheiro	NOUN	O	
+5	,	,	PUNCT	O	
+6	ele	ele	PRON	O	
+7	deixará	deixar	VERB	O	
+8	que	que	SCONJ	O	
+9	partas	parta	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	refletiu	refletir	VERB	O	
+3	e	e	CCONJ	O	
+4	perguntou	perguntar	VERB	O	
+5	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Ele	ele	PRON	O	
+3	quer	querer	VERB	O	
+4	um	um	DET	O	
+5	resgate	resgate	NOUN	O	
+6	muito	muito	ADV	O	
+7	grande	grande	ADJ	O	
+8	?	?	PUNCT	O	
+
+1	Os	o	DET	O	
+2	tártaros	tártaro	NOUN	O	
+3	voltaram	voltar	VERB	O	
+4	a	a	SCONJ	O	
+5	conversar	conversar	VERB	O	
+6	e	e	CCONJ	O	
+7	o	o	DET	O	
+8	tradutor	tradutor	NOUN	O	
+9	precisou	precisar	VERB	O	
+10	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Três	Três	NUM	O	
+3	mil	mil	NUM	O	
+4	moedas	moeda	NOUN	O	
+5	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Não	não	ADV	O	
+3	–	–	PUNCT	O	
+4	argumentou	argumentar	VERB	O	
+5	Giline	Giline	PROPN	B	PER
+6	–	–	PUNCT	O	
+7	não	não	ADV	O	
+8	posso	poder	VERB	O	
+9	pagar	pagar	VERB	O	
+10	tal	tal	DET	O	
+11	soma	soma	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Abdoul	abdoul	PROPN	B	LOC
+2	levantou-se	levantar se	VERB	O	
+3	bruscamente	bruscamente	ADV	O	
+4	;	;	PUNCT	O	
+5	gesticulou	gesticular	VERB	O	
+6	e	e	CCONJ	O	
+7	disse	dizer	VERB	O	
+8	algo	algo	PRON	O	
+9	a	a	ADP	O	
+10	Giline	Giline	PROPN	B	PER
+11	,	,	PUNCT	O	
+12	acreditando	acreditar	VERB	O	
+13	que	que	SCONJ	O	
+14	ele	ele	PRON	O	
+15	o	ele	PRON	O	
+16	entenderia	entender	VERB	O	
+17	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	intérprete	intérprete	NOUN	O	
+3	traduziu	traduzir	VERB	O	
+4	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Quanto	quanto	ADV	O	
+3	queres	queres	VERB	O	
+4	tu	tu	AUX	O	
+5	dar	dar	VERB	O	
+6	?	?	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	guardou	guardar	VERB	O	
+3	silêncio	silêncio	NOUN	O	
+4	por	por	ADP	O	
+5	um	um	DET	O	
+6	instante	instante	NOUN	O	
+7	,	,	PUNCT	O	
+8	e	e	CCONJ	O	
+9	ofereceu	oferecer	VERB	O	
+10	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Quinhentos	quinhentos	NUM	B	MISC
+3	rublos	rublo	NOUN	I	MISC
+4	.	.	PUNCT	I	MISC
+
+1	Os	o	DET	O	
+2	tártaros	tártaro	NOUN	O	
+3	voltaram	voltar	VERB	O	
+4	a	a	SCONJ	O	
+5	discutir	discutir	VERB	O	
+6	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	o	o	DET	O	
+3	interprete	interprete	NOUN	O	
+4	transmitiu	transmitir	VERB	O	
+5	a	o	DET	O	
+6	resposta	resposta	NOUN	O	
+7	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	para	para	ADP	O	
+3	o	o	DET	O	
+4	teu	teu	DET	O	
+5	senhor	senhor	NOUN	O	
+6	,	,	PUNCT	O	
+7	é	ser	AUX	O	
+8	pouco	pouco	ADV	O	
+9	.	.	PUNCT	O	
+
+1	Ele	ele	PRON	O	
+2	mesmo	mesmo	ADV	O	
+3	pagou	pagar	VERB	O	
+4	por	por	ADP	O	
+5	ti	ti	PRON	O	
+6	200	200	NUM	O	
+7	rublos	rublo	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	Kazi	Kazi	PROPN	B	PER
+2	Mahommed	Mahommed	PROPN	I	PER
+3	devia-lhe	devia-lhe	VERB	O	
+4	essa	esse	DET	O	
+5	importância	importância	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	Ele	ele	PRON	O	
+2	recebeu-te	recebeu-te	ADJ	O	
+3	como	como	ADP	O	
+4	pagamento	pagamento	NOUN	O	
+5	da	de o	ADP	O	
+6	dívida	dívida	NOUN	O	
+7	.	.	PUNCT	O	
+
+1	Não	não	ADV	O	
+2	poderás	poderás	VERB	O	
+3	partir	partir	VERB	O	
+4	por	por	ADP	O	
+5	menos	menos	ADV	O	
+6	de	de	ADP	O	
+7	3000	3000	NUM	O	
+8	rublos	rublo	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	se	se	SCONJ	O	
+3	não	não	ADV	O	
+4	escreveres	escreveres	ADJ	O	
+5	,	,	PUNCT	O	
+6	serás	serás	AUX	O	
+7	lançado	lançar	VERB	O	
+8	a	a	ADP	O	
+9	uma	um	DET	O	
+10	fossa	fossa	NOUN	O	
+11	e	e	CCONJ	O	
+12	açoitado	açoitar	VERB	O	
+13	.	.	PUNCT	O	
+
+1	“	“	PUNCT	O	
+2	Olá	Olá	INTJ	B	MISC
+3	!	!	PUNCT	I	MISC
+
+1	–	–	PUNCT	O	
+2	pensou	pensar	VERB	O	
+3	Giline	Giline	PROPN	B	PER
+4	–	–	PUNCT	O	
+5	com	com	ADP	O	
+6	essa	esse	DET	O	
+7	turma	turma	NOUN	O	
+8	,	,	PUNCT	O	
+9	o	o	DET	O	
+10	pior	pior	NOUN	O	
+11	é	ser	AUX	O	
+12	mostrar	mostrar	VERB	O	
+13	medo	medo	NOUN	O	
+14	!	!	PUNCT	O	
+15	”	”	PUNCT	O	
+16	.	.	PUNCT	O	
+
+1	Levantou-se	Levantou-se	VERB	O	
+2	e	e	CCONJ	O	
+3	gritou	gritar	VERB	O	
+4	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	E	e	CCONJ	O	
+3	tu	tu	INTJ	O	
+4	,	,	PUNCT	O	
+5	diz	dizer	VERB	O	
+6	a	a	ADP	O	
+7	esse	esse	DET	O	
+8	cachorro	cachorro	NOUN	O	
+9	que	que	PRON	O	
+10	se	se	SCONJ	O	
+11	ele	ele	PRON	O	
+12	me	eu	PRON	O	
+13	quer	querer	VERB	O	
+14	amedrontar	amedrontar	VERB	O	
+15	,	,	PUNCT	O	
+16	não	não	ADV	O	
+17	lhe	ele	PRON	O	
+18	dou	dou	VERB	O	
+19	sequer	sequer	ADV	O	
+20	um	um	NUM	O	
+21	copeque	copeque	NOUN	O	
+22	,	,	PUNCT	O	
+23	não	não	ADV	O	
+24	escreverei	escrever	VERB	O	
+25	uma	um	DET	O	
+26	única	único	ADJ	O	
+27	linha	linha	NOUN	O	
+28	.	.	PUNCT	O	
+
+1	Nunca	nunca	ADV	O	
+2	tive	ter	VERB	O	
+3	nem	nem	ADV	O	
+4	terei	ter	VERB	O	
+5	medo	medo	NOUN	O	
+6	de	de	ADP	O	
+7	vocês	você	PRON	O	
+8	,	,	PUNCT	O	
+9	cachorros	cachorro	NOUN	O	
+10	!	!	PUNCT	O	
+
+1	O	o	DET	O	
+2	intérprete	intérprete	NOUN	O	
+3	traduziu	traduzir	VERB	O	
+4	;	;	PUNCT	O	
+5	de	de	ADP	O	
+6	novo	novo	NOUN	O	
+7	os	o	DET	O	
+8	tártaros	tártaro	NOUN	O	
+9	voltaram	voltar	VERB	O	
+10	a	a	SCONJ	O	
+11	falar	falar	VERB	O	
+12	ao	a o	ADP	O	
+13	mesmo	mesmo	ADJ	O	
+14	tempo	tempo	NOUN	O	
+15	.	.	PUNCT	O	
+
+1	Discutiram	Discutiram	VERB	O	
+2	muito	muito	ADV	O	
+3	;	;	PUNCT	O	
+4	depois	depois	ADV	O	
+5	o	o	DET	O	
+6	moreno	moreno	NOUN	O	
+7	levantou-se	levantar se	VERB	O	
+8	bruscamente	bruscamente	ADV	O	
+9	de	de	ADP	O	
+10	Giline	Giline	PROPN	B	PER
+11	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Orusse	Orusse	PROPN	B	MISC
+3	Dgiguitte	Dgiguitte	PROPN	I	MISC
+4	–	–	PUNCT	O	
+5	disse	dizer	VERB	O	
+6	-	-	PUNCT	O	
+7	Orusse	Orusse	PROPN	B	LOC
+8	Dgiguitte	Dgiguitte	PROPN	I	LOC
+9	(	(	PUNCT	O	
+10	para	para	ADP	O	
+11	eles	eles	PRON	O	
+12	,	,	PUNCT	O	
+13	significa	significar	VERB	O	
+14	jovem	jovem	ADJ	O	
+15	corajoso	corajoso	ADJ	O	
+16	)	)	PUNCT	O	
+17	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	riu	riu	VERB	O	
+3	.	.	PUNCT	O	
+
+1	Disse	dizer	VERB	O	
+2	algo	algo	PRON	O	
+3	ao	a o	ADP	O	
+4	intérprete	intérprete	NOUN	O	
+5	,	,	PUNCT	O	
+6	que	que	PRON	O	
+7	o	ele	PRON	O	
+8	aconselhou	aconselhar	VERB	O	
+9	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Dá	Dá	VERB	O	
+3	mil	mil	NUM	O	
+4	rublos	rublo	NOUN	O	
+5	!	!	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	repetiu	repetir	VERB	O	
+3	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Não	não	ADV	O	
+3	darei	darei	VERB	O	
+4	mais	mais	ADV	O	
+5	do	de o	ADP	O	
+6	que	que	PRON	O	
+7	500	500	NUM	O	
+8	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	se	se	SCONJ	O	
+3	me	eu	PRON	O	
+4	matarem	matar	VERB	O	
+5	,	,	PUNCT	O	
+6	nem	nem	CCONJ	O	
+7	os	o	DET	O	
+8	500	500	NUM	O	
+9	tereis	tereis	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	tártaros	tártaro	NOUN	O	
+3	voltaram	voltar	VERB	O	
+4	a	a	SCONJ	O	
+5	discutir	discutir	VERB	O	
+6	;	;	PUNCT	O	
+
+1	mandaram	mandar	VERB	O	
+2	o	o	DET	O	
+3	artesão	artesão	NOUN	O	
+4	embora	embora	SCONJ	O	
+5	e	e	CCONJ	O	
+6	ficaram	ficar	VERB	O	
+7	olhando	olhar	VERB	O	
+8	ora	ora	ADV	O	
+9	para	para	ADP	O	
+10	Giline	Giline	PROPN	B	PER
+11	,	,	PUNCT	O	
+12	ora	ora	ADV	O	
+13	para	para	ADP	O	
+14	a	o	DET	O	
+15	porta	porta	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	artesão	artesão	NOUN	O	
+3	regressou	regressar	VERB	O	
+4	pouco	pouco	ADV	O	
+5	depois	depois	ADV	O	
+6	;	;	PUNCT	O	
+
+1	atrás	atrás	ADV	O	
+2	dele	de ele	PRON	O	
+3	caminhava	caminhar	VERB	O	
+4	um	um	DET	O	
+5	homem	homem	NOUN	O	
+6	,	,	PUNCT	O	
+7	descalço	descalço	ADJ	O	
+8	e	e	CCONJ	O	
+9	esfarrapado	esfarrapar	VERB	O	
+10	,	,	PUNCT	O	
+11	também	também	ADV	O	
+12	com	com	ADP	O	
+13	um	um	DET	O	
+14	cepo	cepo	NOUN	O	
+15	num	em um	NUM	O	
+16	dos	de o	ADP	O	
+17	pés	pé	NOUN	O	
+18	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	suspirou	suspirar	VERB	O	
+3	.	.	PUNCT	O	
+
+1	Reconhecera	Reconhecera	PROPN	B	PER
+2	Kostiline	Kostiline	PROPN	I	PER
+3	.	.	PUNCT	O	
+
+1	Também	também	ADV	O	
+2	ele	ele	PRON	O	
+3	tinha	ter	AUX	O	
+4	sido	ser	AUX	O	
+5	aprisionado	aprisionar	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Obrigaram-nos	Obrigaram-nos	VERB	O	
+2	a	a	SCONJ	O	
+3	sentar-se	sentar se	VERB	O	
+4	um	um	NUM	O	
+5	ao	a o	ADP	O	
+6	lado	lado	NOUN	O	
+7	do	de o	ADP	O	
+8	outro	outro	PRON	O	
+9	.	.	PUNCT	O	
+
+1	Kostiline	Kostiline	PROPN	B	PER
+2	contou	contar	VERB	O	
+3	que	que	SCONJ	O	
+4	seu	seu	DET	O	
+5	cavalo	cavalo	NOUN	O	
+6	tinha	ter	AUX	O	
+7	sido	ser	AUX	O	
+8	abatido	abatir	VERB	O	
+9	,	,	PUNCT	O	
+10	que	que	SCONJ	O	
+11	seu	seu	DET	O	
+12	fuzil	fuzil	NOUN	O	
+13	falhara	falhar	VERB	O	
+14	e	e	CCONJ	O	
+15	que	que	SCONJ	O	
+16	o	o	DET	O	
+17	próprio	próprio	DET	O	
+18	Obdoul	Obdoul	PROPN	B	PER
+19	o	ele	PRON	O	
+20	alcançara	alcançar	VERB	O	
+21	e	e	CCONJ	O	
+22	aprisionara	aprisionar	NOUN	O	
+23	.	.	PUNCT	O	
+
+1	Obdoul	obdoul	PROPN	B	PER
+2	levantou-se	levantar se	VERB	O	
+3	bruscamente	bruscamente	ADV	O	
+4	;	;	PUNCT	O	
+5	apontou	apontar	VERB	O	
+6	Kostiline	Kostiline	PROPN	B	PER
+7	e	e	CCONJ	O	
+8	disse	dizer	VERB	O	
+9	algo	algo	PRON	O	
+10	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	intérprete	intérprete	NOUN	O	
+3	explicou	explicar	VERB	O	
+4	que	que	SCONJ	O	
+5	ambos	ambos	PRON	O	
+6	tinham	ter	VERB	O	
+7	agora	agora	ADV	O	
+8	o	o	DET	O	
+9	mesmo	mesmo	ADJ	O	
+10	senhor	senhor	NOUN	O	
+11	e	e	CCONJ	O	
+12	que	que	SCONJ	O	
+13	aquele	aquele	PRON	O	
+14	que	que	PRON	O	
+15	fosse	ser	AUX	O	
+16	o	o	DET	O	
+17	primeiro	primeiro	ADJ	O	
+18	a	a	SCONJ	O	
+19	entregar	entregar	VERB	O	
+20	o	o	DET	O	
+21	dinheiro	dinheiro	NOUN	O	
+22	seria	ser	AUX	O	
+23	o	o	DET	O	
+24	primeiro	primeiro	ADJ	O	
+25	a	a	SCONJ	O	
+26	ser	ser	AUX	O	
+27	libertado	libertar	VERB	O	
+28	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	argumentou	argumentar	VERB	O	
+3	com	com	ADP	O	
+4	Giline	Giline	PROPN	B	PER
+5	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Tu	Tu	INTJ	O	
+3	,	,	PUNCT	O	
+4	tu	tu	PRON	O	
+5	estás	estás	AUX	O	
+6	sempre	sempre	ADV	O	
+7	zangado	zangado	ADJ	O	
+8	;	;	PUNCT	O	
+
+1	o	o	DET	O	
+2	teu	teu	DET	O	
+3	companheiro	companheiro	NOUN	O	
+4	é	ser	AUX	O	
+5	um	um	DET	O	
+6	homem	homem	NOUN	O	
+7	mais	mais	ADV	O	
+8	razoável	razoável	ADJ	O	
+9	;	;	PUNCT	O	
+10	já	já	ADV	O	
+11	escreveu	escrever	VERB	O	
+12	uma	um	DET	O	
+13	carta	carta	NOUN	O	
+14	para	para	ADP	O	
+15	os	o	DET	O	
+16	seus	seu	PRON	O	
+17	;	;	PUNCT	O	
+18	pede	pedir	VERB	O	
+19	cinco	cinco	NUM	O	
+20	mil	mil	NUM	O	
+21	peças	peça	NOUN	O	
+22	.	.	PUNCT	O	
+
+1	Será	ser	AUX	O	
+2	bem	bem	ADV	O	
+3	alimentado	alimentar	VERB	O	
+4	e	e	CCONJ	O	
+5	bem	bem	ADV	O	
+6	tratado	tratado	ADJ	O	
+7	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Meu	meu	DET	O	
+3	companheiro	companheiro	NOUN	O	
+4	–	–	PUNCT	O	
+5	respondeu	responder	VERB	O	
+6	Giline	Giline	PROPN	B	PER
+7	–	–	PUNCT	O	
+8	procede	procedir	VERB	O	
+9	como	como	ADV	O	
+10	quer	querer	CCONJ	O	
+11	;	;	PUNCT	O	
+12	talvez	talvez	ADV	O	
+13	seja	ser	AUX	O	
+14	rico	rico	ADJ	O	
+15	,	,	PUNCT	O	
+16	mas	mas	CCONJ	O	
+17	eu	eu	PRON	O	
+18	não	não	ADV	O	
+19	sou	ser	AUX	O	
+20	.	.	PUNCT	O	
+
+1	É	ser	AUX	O	
+2	como	como	ADV	O	
+3	eu	eu	PRON	O	
+4	disse	dizer	VERB	O	
+5	.	.	PUNCT	O	
+
+1	Matem-me	Matem-me	VERB	B	LOC
+2	se	se	PRON	O	
+3	quiserem	quiser	VERB	O	
+4	,	,	PUNCT	O	
+5	mas	mas	CCONJ	O	
+6	nada	nada	ADV	O	
+7	ganham	ganhar	VERB	O	
+8	com	com	ADP	O	
+9	isso	isso	PRON	O	
+10	.	.	PUNCT	O	
+
+1	Escreverei	Escreverei	VERB	O	
+2	apenas	apenas	ADV	O	
+3	para	para	ADP	O	
+4	500	500	NUM	O	
+5	rublos	rublo	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	tártaros	tártaro	NOUN	O	
+3	nada	nada	ADV	O	
+4	responderam	responder	VERB	O	
+5	.	.	PUNCT	O	
+
+1	De	de	ADP	O	
+2	repente	repente	NOUN	O	
+3	,	,	PUNCT	O	
+4	Abdoul	Abdoul	PROPN	B	PER
+5	levantou-se	levantar se	VERB	O	
+6	,	,	PUNCT	O	
+7	irritado	irritado	ADJ	O	
+8	,	,	PUNCT	O	
+9	abriu	abrir	VERB	O	
+10	um	um	DET	O	
+11	cofre	cofre	NOUN	O	
+12	,	,	PUNCT	O	
+13	pegou	pegar	VERB	O	
+14	uma	um	DET	O	
+15	caneta	caneta	NOUN	O	
+16	,	,	PUNCT	O	
+17	um	um	DET	O	
+18	pedaço	pedaço	NOUN	O	
+19	de	de	ADP	O	
+20	papel	papel	NOUN	O	
+21	e	e	CCONJ	O	
+22	tinta	tinta	NOUN	O	
+23	;	;	PUNCT	O	
+24	aproximou-se	aproximar se	VERB	O	
+25	de	de	ADP	O	
+26	Giline	Giline	PROPN	B	PER
+27	,	,	PUNCT	O	
+28	deu-lhe	deu-lhe	VERB	O	
+29	um	um	DET	O	
+30	safanão	safanão	NOUN	O	
+31	e	e	CCONJ	O	
+32	disse	dizer	VERB	O	
+33	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Escreve	Escreve	VERB	B	MISC
+3	!	!	PUNCT	I	MISC
+
+1	Giline	Giline	PROPN	B	PER
+2	concordou	concordar	VERB	O	
+3	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Espera	Espera	NOUN	O	
+3	–	–	PUNCT	O	
+4	disse	dizer	VERB	O	
+5	Giline	Giline	PROPN	B	PER
+6	ao	a o	ADP	O	
+7	intérprete	intérprete	NOUN	O	
+8	;	;	PUNCT	O	
+9	-	-	PUNCT	O	
+10	fala-lhe	fala-lhe	VERB	O	
+11	que	que	SCONJ	O	
+12	é	ser	AUX	O	
+13	preciso	preciso	ADJ	O	
+14	que	que	SCONJ	O	
+15	nos	nós	PRON	O	
+16	alimente	alimente	VERB	O	
+17	bem	bem	ADV	O	
+18	,	,	PUNCT	O	
+19	que	que	SCONJ	O	
+20	nos	em o	ADP	O	
+21	vista	Vista	NOUN	O	
+22	e	e	CCONJ	O	
+23	calce	calce	NOUN	O	
+24	e	e	CCONJ	O	
+25	que	que	PRON	O	
+26	nos	nós	PRON	O	
+27	deixe	deixar	VERB	O	
+28	partir	partir	VERB	O	
+29	juntos	junto	ADV	O	
+30	–	–	PUNCT	O	
+31	será	ser	AUX	O	
+32	mais	mais	ADV	O	
+33	divertido	divertido	ADJ	O	
+34	para	para	ADP	O	
+35	nós	nós	PRON	O	
+36	–	–	PUNCT	O	
+37	e	e	CCONJ	O	
+38	que	que	PRON	O	
+39	nos	nós	PRON	O	
+40	tire	tire	VERB	O	
+41	os	o	DET	O	
+42	cepos	cepo	NOUN	O	
+43	.	.	PUNCT	O	
+
+1	Olhou	Olhar	VERB	O	
+2	para	para	ADP	O	
+3	o	o	DET	O	
+4	tártaros	tártaro	NOUN	O	
+5	seu	seu	DET	O	
+6	senhor	senhor	NOUN	O	
+7	,	,	PUNCT	O	
+8	e	e	CCONJ	O	
+9	riu	riu	VERB	O	
+10	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	tártaro	tártaro	NOUN	O	
+3	riu	rir	VERB	O	
+4	também	também	ADV	O	
+5	e	e	CCONJ	O	
+6	concordou	concordar	VERB	O	
+7	com	com	ADP	O	
+8	tudo	tudo	PRON	O	
+9	,	,	PUNCT	O	
+10	exceto	exceto	ADP	O	
+11	no	em o	PRON	O	
+12	que	que	PRON	O	
+13	dizia	dizer	VERB	O	
+14	respeito	respeito	NOUN	O	
+15	aos	a o	ADP	O	
+16	cepos	cepo	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Não	não	ADV	O	
+3	é	ser	AUX	O	
+4	possível	possível	ADJ	O	
+5	tirá-los	tirar eles	VERB	O	
+6	,	,	PUNCT	O	
+7	eles	eles	PRON	O	
+8	fugiriam	fugir	VERB	O	
+9	.	.	PUNCT	O	
+
+1	Apenas	apenas	ADV	O	
+2	de	de	ADP	O	
+3	noite	noite	NOUN	O	
+4	o	ele	PRON	O	
+5	farei	farei	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	redigiu	redigir	VERB	O	
+3	uma	um	DET	O	
+4	carta	carta	NOUN	O	
+5	,	,	PUNCT	O	
+6	mas	mas	CCONJ	O	
+7	nela	em ela	PRON	O	
+8	escreveu	escrever	VERB	O	
+9	um	um	DET	O	
+10	falso	falso	ADJ	O	
+11	endereço	endereço	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Raciocinava	Raciocinava	PROPN	O	
+2	:	:	PUNCT	O	
+3	“	“	PUNCT	O	
+4	tratarei	tratar	VERB	O	
+5	de	de	SCONJ	O	
+6	fugir	fugir	VERB	O	
+7	,	,	PUNCT	O	
+8	e	e	CCONJ	O	
+9	assim	assim	ADV	O	
+10	não	não	ADV	O	
+11	obrigarei	obrigarei	VERB	O	
+12	minha	meu	DET	O	
+13	mãe	mãe	NOUN	O	
+14	a	a	ADP	O	
+15	um	um	DET	O	
+16	sacrifício	sacrifício	NOUN	O	
+17	tão	tão	ADV	O	
+18	pesado	pesar	VERB	O	
+19	.	.	PUNCT	O	
+20	”	”	PUNCT	O	
+
+1	Foi	foi	SCONJ	O	
+2	assim	assim	ADV	O	
+3	que	que	SCONJ	O	
+4	ele	ele	PRON	O	
+5	viveu	viver	VERB	O	
+6	com	com	ADP	O	
+7	seu	seu	DET	O	
+8	companheiro	companheiro	NOUN	O	
+9	um	um	NUM	O	
+10	mês	mês	NOUN	O	
+11	inteiro	inteiro	ADJ	O	
+12	.	.	PUNCT	O	
+
+1	Depois	depois	ADV	O	
+2	,	,	PUNCT	O	
+3	resolveu	resolver	VERB	O	
+4	evadir-se	evadir se	VERB	O	
+5	e	e	CCONJ	O	
+6	comunicou	comunicar	VERB	O	
+7	sua	seu	DET	O	
+8	intenção	intenção	NOUN	O	
+9	a	a	ADP	O	
+10	Kostiline	Kostiline	PROPN	B	MISC
+11	.	.	PUNCT	O	
+
+1	Este	este	PRON	O	
+2	refletiu	refletir	VERB	O	
+3	demoradamente	demoradamente	ADV	O	
+4	e	e	CCONJ	O	
+5	decidiu-se	decidir se	VERB	O	
+6	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Pois	pois	ADV	O	
+3	bem	bem	ADV	O	
+4	,	,	PUNCT	O	
+5	vamos	ir	VERB	O	
+6	!	!	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	abriu	abrir	VERB	O	
+3	na	em o	ADP	O	
+4	parede	parede	NOUN	O	
+5	um	um	DET	O	
+6	buraco	buraco	NOUN	O	
+7	suficientemente	suficientemente	ADV	O	
+8	largo	largo	ADJ	O	
+9	para	para	SCONJ	O	
+10	passarem	passar	VERB	O	
+11	;	;	PUNCT	O	
+
+1	depois	depois	ADV	O	
+2	,	,	PUNCT	O	
+3	aguardaram	aguardar	VERB	O	
+4	que	que	SCONJ	O	
+5	o	o	DET	O	
+6	silêncio	silêncio	NOUN	O	
+7	envolvesse	envolver	VERB	O	
+8	a	a	ADP	O	
+9	aoul	aoul	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Evadiram-se	Evadiram-se	VERB	O	
+2	,	,	PUNCT	O	
+3	e	e	CCONJ	O	
+4	depois	depois	ADV	O	
+5	de	de	ADP	O	
+6	fazerem	fazer	VERB	O	
+7	o	o	DET	O	
+8	sinal	sinal	NOUN	O	
+9	da	de o	ADP	O	
+10	cruz	cruz	NOUN	O	
+11	,	,	PUNCT	O	
+12	puseram-se	puser se	VERB	O	
+13	a	a	ADP	O	
+14	caminho	caminho	NOUN	O	
+15	,	,	PUNCT	O	
+16	pensando	pensar	VERB	O	
+17	não	não	ADV	O	
+18	terem	ter	AUX	O	
+19	levantado	levantar	VERB	O	
+20	qualquer	qualquer	DET	O	
+21	suspeita	suspeita	NOUN	O	
+22	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	nevoeiro	nevoeiro	NOUN	O	
+3	era	ser	AUX	O	
+4	frio	frio	ADJ	O	
+5	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	calçou	calçar	VERB	O	
+3	as	o	DET	O	
+4	botas	bota	NOUN	O	
+5	.	.	PUNCT	O	
+
+1	Kostiline	Kostiline	PROPN	O	
+2	os	o	DET	O	
+3	pés	pé	NOUN	O	
+4	ensangüentados	ensangüentar	VERB	O	
+5	,	,	PUNCT	O	
+6	caminhava	caminhar	VERB	O	
+7	gemendo	gemer	VERB	O	
+8	;	;	PUNCT	O	
+9	vinte	vinte	NUM	O	
+10	vezes	vez	NOUN	O	
+11	pediu	pedir	VERB	O	
+12	ao	a o	ADP	O	
+13	companheiro	companheiro	NOUN	O	
+14	que	que	PRON	O	
+15	o	ele	PRON	O	
+16	abandonasse	abandonar	VERB	O	
+17	,	,	PUNCT	O	
+18	mas	mas	CCONJ	O	
+19	este	este	PRON	O	
+20	acabou	acabar	VERB	O	
+21	por	por	SCONJ	O	
+22	transportá-lo	transportar ele	VERB	O	
+23	sobre	sobre	ADP	O	
+24	os	o	DET	O	
+25	ombros	ombro	NOUN	O	
+26	,	,	PUNCT	O	
+27	parando	parar	VERB	O	
+28	somente	somente	ADV	O	
+29	junto	junto	ADV	O	
+30	a	a	ADP	O	
+31	uma	um	DET	O	
+32	pequena	pequeno	ADJ	O	
+33	fonte	fonte	NOUN	O	
+34	que	que	PRON	O	
+35	brotava	brotar	VERB	O	
+36	de	de	ADP	O	
+37	uma	um	DET	O	
+38	rocha	rocha	NOUN	O	
+39	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	depôs	depôs	VERB	O	
+3	Kostiline	Kostiline	PROPN	B	PER
+4	no	em o	ADP	O	
+5	chão	chão	NOUN	O	
+6	e	e	CCONJ	O	
+7	disse-lhe	disse-lhe	VERB	O	
+8	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Bebe	Bebe	PROPN	B	PER
+
+1	e	e	CCONJ	O	
+2	permite	permitir	VERB	O	
+3	que	que	SCONJ	O	
+4	descanse	descansar	VERB	O	
+5	um	um	DET	O	
+6	pouco	pouco	PRON	O	
+7	.	.	PUNCT	O	
+
+1	Acaba	acabar	VERB	O	
+2	de	de	SCONJ	O	
+3	se	se	PRON	O	
+4	deitar	deitar	VERB	O	
+5	quando	quando	ADV	O	
+6	escutou	escutar	VERB	O	
+7	passos	passo	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	Com	com	ADP	O	
+2	seu	seu	DET	O	
+3	companheiro	companheiro	NOUN	O	
+4	,	,	PUNCT	O	
+5	correu	correr	VERB	O	
+6	para	para	ADP	O	
+7	a	o	DET	O	
+8	direita	direita	NOUN	O	
+9	,	,	PUNCT	O	
+10	ocultando-se	ocultar se	VERB	O	
+11	num	em um	ADP	O	
+12	matagal	matagal	NOUN	O	
+13	,	,	PUNCT	O	
+14	sobre	sobre	ADP	O	
+15	uma	um	DET	O	
+16	escarpa	escarpa	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	Distinguiram	Distinguiram	VERB	O	
+2	vozes	voz	NOUN	O	
+3	de	de	ADP	O	
+4	tártaros	tártaro	NOUN	O	
+5	;	;	PUNCT	O	
+6	estes	este	PRON	O	
+7	,	,	PUNCT	O	
+8	tinham	ter	AUX	O	
+9	parado	parar	VERB	O	
+10	no	em o	ADP	O	
+11	local	local	NOUN	O	
+12	onde	onde	PRON	O	
+13	ambos	ambos	PRON	O	
+14	tinham	ter	AUX	O	
+15	abandonado	abandonar	VERB	O	
+16	o	o	DET	O	
+17	caminho	caminho	NOUN	O	
+18	.	.	PUNCT	O	
+
+1	Falaram	Falaram	VERB	O	
+2	demoradamente	demoradamente	ADV	O	
+3	;	;	PUNCT	O	
+4	depois	depois	ADV	O	
+5	,	,	PUNCT	O	
+6	incitaram	incitar	VERB	O	
+7	os	o	DET	O	
+8	cães	cão	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	e	e	CCONJ	O	
+3	Kostiline	Kostiline	PROPN	B	LOC
+4	ouviram	ouvir	VERB	O	
+5	algo	algo	PRON	O	
+6	se	se	SCONJ	O	
+7	quebrando	quebrar	VERB	O	
+8	no	em o	ADP	O	
+9	valado	valado	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Um	um	DET	O	
+2	cão	cão	NOUN	O	
+3	avançava	avançar	VERB	O	
+4	sobre	sobre	ADP	O	
+5	eles	eles	PRON	O	
+6	,	,	PUNCT	O	
+7	farejando	farejar	VERB	O	
+8	.	.	PUNCT	O	
+
+1	Súbito	súbito	NOUN	O	
+2	,	,	PUNCT	O	
+3	deteve-se	deteve-se	VERB	O	
+4	e	e	CCONJ	O	
+5	uivou	uivar	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Logo	logo	ADV	O	
+2	surgiram	surgir	VERB	O	
+3	os	o	DET	O	
+4	tártaros	tártaro	NOUN	O	
+5	;	;	PUNCT	O	
+
+1	aprisionaram-nos	aprisionaram-nos	VERB	O	
+2	,	,	PUNCT	O	
+3	garrotaram-nos	garrotaram-nos	VERB	O	
+4	,	,	PUNCT	O	
+5	colocaram	colocar	VERB	O	
+6	sobre	sobre	ADP	O	
+7	os	o	DET	O	
+8	cavalos	cavalo	NOUN	O	
+9	e	e	CCONJ	O	
+10	partiram	partir	VERB	O	
+11	.	.	PUNCT	O	
+
+1	A	o	DET	O	
+2	sua	seu	DET	O	
+3	existência	existência	NOUN	O	
+4	tornou-se	tornar se	VERB	O	
+5	horrível	horrível	ADJ	O	
+6	.	.	PUNCT	O	
+
+1	Jamais	jamais	ADV	O	
+2	lhes	eles	PRON	O	
+3	retiraram	retirar	VERB	O	
+4	os	o	DET	O	
+5	cepos	cepo	NOUN	O	
+6	,	,	PUNCT	O	
+7	jamais	jamais	ADV	O	
+8	os	eles	PRON	O	
+9	deixaram	deixar	VERB	O	
+10	sair	sair	VERB	O	
+11	.	.	PUNCT	O	
+
+1	Do	de o	ADP	O	
+2	alto	alto	NOUN	O	
+3	da	de o	ADP	O	
+4	fossa	fossa	NOUN	O	
+5	,	,	PUNCT	O	
+6	lançavam-lhes	lançavam-lhes	NOUN	O	
+7	,	,	PUNCT	O	
+8	como	como	ADP	O	
+9	cães	cão	NOUN	O	
+10	,	,	PUNCT	O	
+11	bolos	bolo	NOUN	O	
+12	de	de	ADP	O	
+13	farinha	farinha	NOUN	O	
+14	crua	cruo	ADJ	O	
+15	,	,	PUNCT	O	
+16	e	e	CCONJ	O	
+17	a	o	DET	O	
+18	água	água	NOUN	O	
+19	era	ser	AUX	O	
+20	descida	descida	VERB	O	
+21	num	em um	ADP	O	
+22	cântaro	cântaro	NOUN	O	
+23	.	.	PUNCT	O	
+
+1	A	o	DET	O	
+2	fossa	fossa	NOUN	O	
+3	era	ser	AUX	O	
+4	pestilenta	pestilento	ADJ	O	
+5	,	,	PUNCT	O	
+6	quente	quente	ADJ	O	
+7	e	e	CCONJ	O	
+8	úmida	úmir	VERB	O	
+9	.	.	PUNCT	O	
+
+1	Uma	uma	ADP	O	
+2	vez	vez	NOUN	O	
+3	,	,	PUNCT	O	
+4	Giline	Giline	PROPN	B	PER
+5	,	,	PUNCT	O	
+6	agachado	agachar	VERB	O	
+7	na	em o	ADP	O	
+8	fossa	fossa	NOUN	O	
+9	,	,	PUNCT	O	
+10	sonhava	sonhar	VERB	O	
+11	com	com	ADP	O	
+12	a	o	DET	O	
+13	vida	vida	NOUN	O	
+14	livre	livre	ADJ	O	
+15	e	e	CCONJ	O	
+16	estava	estar	AUX	O	
+17	triste	triste	ADJ	O	
+18	.	.	PUNCT	O	
+
+1	De	de	ADP	O	
+2	repente	repente	NOUN	O	
+3	,	,	PUNCT	O	
+4	a	o	DET	O	
+5	frente	frente	NOUN	O	
+6	de	de	ADP	O	
+7	seus	seu	DET	O	
+8	joelhos	joelho	NOUN	O	
+9	,	,	PUNCT	O	
+10	tombou	tombar	VERB	O	
+11	um	um	DET	O	
+12	bolo	bolo	NOUN	O	
+13	frito	frito	ADJ	O	
+14	,	,	PUNCT	O	
+15	e	e	CCONJ	O	
+16	logo	logo	ADV	O	
+17	um	um	DET	O	
+18	outro	outro	PRON	O	
+19	,	,	PUNCT	O	
+20	e	e	CCONJ	O	
+21	depois	depois	ADV	O	
+22	cerejas	cereja	NOUN	O	
+23	.	.	PUNCT	O	
+
+1	Olhou	Olhou	VERB	O	
+2	para	para	ADP	O	
+3	cima	cima	NOUN	O	
+4	e	e	CCONJ	O	
+5	viu	ver	VERB	O	
+6	Diná	Diná	PROPN	B	PER
+7	.	.	PUNCT	O	
+
+1	Ela	ela	PRON	O	
+2	sorriu	sorrir	VERB	O	
+3	e	e	CCONJ	O	
+4	fugiu	fugir	VERB	O	
+5	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	Giline	Giline	PROPN	B	PER
+3	pensou	pensar	VERB	O	
+4	:	:	PUNCT	O	
+
+1	“	“	PUNCT	O	
+
+1	Talvez	talvez	ADV	O	
+2	Diná	Diná	PROPN	B	PER
+3	possa	poder	VERB	O	
+4	ajudar-me	ajudar-me	VERB	O	
+5	.	.	PUNCT	O	
+
+1	”	”	PUNCT	O	
+
+1	Arrancou	arrancou	VERB	O	
+2	do	de o	ADP	O	
+3	chão	chão	NOUN	O	
+4	da	de o	ADP	O	
+5	fossa	fossa	NOUN	O	
+6	um	um	DET	O	
+7	pedaço	pedaço	NOUN	O	
+8	de	de	ADP	O	
+9	argila	argila	NOUN	O	
+10	e	e	CCONJ	O	
+11	entreve-se	entreve-se	VERB	O	
+12	a	a	SCONJ	O	
+13	modelar	modelar	VERB	O	
+14	alguns	algum	DET	O	
+15	bonecos	boneco	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	Homenzinhos	Homenzinhos	PROPN	O	
+2	,	,	PUNCT	O	
+3	cavalos	cavalo	NOUN	O	
+4	e	e	CCONJ	O	
+5	cães	cão	NOUN	O	
+6	;	;	PUNCT	O	
+7	pensava	pensar	VERB	O	
+8	:	:	PUNCT	O	
+
+1	“	“	PUNCT	O	
+
+1	Quando	quando	SCONJ	O	
+2	vier	vier	VERB	O	
+3	Diná	Diná	PROPN	B	PER
+4	,	,	PUNCT	O	
+5	dou-lhe	dou-lhe	VERB	O	
+6	estes	este	DET	O	
+7	brinquedos	brinquedo	NOUN	O	
+8	”	”	PUNCT	O	
+9	.	.	PUNCT	O	
+
+1	Porém	porém	ADV	O	
+2	,	,	PUNCT	O	
+3	no	em o	ADP	O	
+4	dia	dia	NOUN	O	
+5	seguinte	seguinte	ADJ	O	
+6	,	,	PUNCT	O	
+7	Diná	Diná	PROPN	B	PER
+8	não	não	ADV	O	
+9	apareceu	aparecer	VERB	O	
+10	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	Giline	Giline	PROPN	B	PER
+3	escutou	escutar	VERB	O	
+4	os	o	DET	O	
+5	homens	homem	NOUN	O	
+6	correrem	correr	VERB	O	
+7	e	e	CCONJ	O	
+8	o	o	DET	O	
+9	tropel	Tropel	NOUN	O	
+10	dos	de o	ADP	O	
+11	cavalos	cavalo	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	tártaros	tártaro	NOUN	O	
+3	reuniram-se	reunir se	VERB	O	
+4	na	em o	ADP	O	
+5	mesquita	mesquita	NOUN	O	
+6	;	;	PUNCT	O	
+
+1	discutiram	discutir	VERB	O	
+2	,	,	PUNCT	O	
+3	gritaram	gritar	VERB	O	
+4	e	e	CCONJ	O	
+5	falaram	falar	VERB	O	
+6	dos	de o	ADP	O	
+7	russos	russo	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	Não	não	ADV	O	
+2	compreendeu	compreender	VERB	O	
+3	tudo	tudo	DET	O	
+4	o	o	DET	O	
+5	que	que	PRON	O	
+6	ouviu	ouvir	VERB	O	
+7	,	,	PUNCT	O	
+8	mas	mas	CCONJ	O	
+9	pressentiu	pressentir	VERB	O	
+10	que	que	SCONJ	O	
+11	os	o	DET	O	
+12	russos	russo	NOUN	O	
+13	aproximavam-se	aproximavam-se	VERB	O	
+14	e	e	CCONJ	O	
+15	que	que	SCONJ	O	
+16	os	o	DET	O	
+17	tártaros	tártaro	NOUN	O	
+18	receavam	recear	VERB	O	
+19	que	que	SCONJ	O	
+20	chegassem	chegar	VERB	O	
+21	a	o	DET	O	
+22	aldeia	aldeia	NOUN	O	
+23	e	e	CCONJ	O	
+24	vissem	vir	VERB	O	
+25	o	o	PRON	O	
+26	que	que	PRON	O	
+27	tinham	ter	AUX	O	
+28	feito	fazer	VERB	O	
+29	com	com	ADP	O	
+30	os	o	DET	O	
+31	prisioneiros	prisioneiro	NOUN	O	
+32	.	.	PUNCT	O	
+
+1	Conferenciaram	Conferenciaram	NOUN	B	PER
+2	e	e	CCONJ	O	
+3	retiraram-se	retirar se	VERB	O	
+4	.	.	PUNCT	O	
+
+1	De	de	ADP	O	
+2	repente	repente	NOUN	O	
+3	,	,	PUNCT	O	
+4	escutou	escutar	VERB	O	
+5	um	um	DET	O	
+6	ruído	ruído	NOUN	O	
+7	lá	lá	ADV	O	
+8	em	em	ADP	O	
+9	cima	cima	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Olhou	Olhou	VERB	O	
+2	.	.	PUNCT	O	
+
+1	Diná	Diná	PROPN	B	PER
+2	estava	estar	AUX	O	
+3	agachada	agachado	ADJ	O	
+4	,	,	PUNCT	O	
+5	os	o	DET	O	
+6	joelhos	joelho	NOUN	O	
+7	mais	mais	ADV	O	
+8	altos	alto	ADJ	O	
+9	que	que	PRON	O	
+10	a	o	DET	O	
+11	cabeça	cabeça	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Debruçada	Debruçada	VERB	O	
+2	,	,	PUNCT	O	
+3	seus	seu	DET	O	
+4	colares	colar	NOUN	O	
+5	balançavam	balançar	VERB	O	
+6	dentro	dentro	ADV	O	
+7	da	de o	ADP	O	
+8	fossa	fossa	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	olhos	olho	NOUN	O	
+3	brilhavam	brilhar	VERB	O	
+4	como	como	ADP	O	
+5	estrelas	estrela	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	Tirou	Tirou	VERB	O	
+2	da	de o	ADP	O	
+3	manga	manga	NOUN	O	
+4	dois	dois	NUM	O	
+5	bolinhos	bolinho	NOUN	O	
+6	fritos	frito	ADJ	O	
+7	e	e	CCONJ	O	
+8	atirou-os	atirou-os	VERB	O	
+9	a	a	ADP	O	
+10	Giline	Giline	PROPN	B	LOC
+11	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	pegou-os	pegou-os	VERB	O	
+3	e	e	CCONJ	O	
+4	disse	dizer	VERB	O	
+5	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Há	haver	VERB	O	
+3	quanto	quanto	DET	O	
+4	tempo	tempo	NOUN	O	
+5	não	não	ADV	O	
+6	te	te	PRON	O	
+7	via	ver	VERB	O	
+8	!	!	PUNCT	O	
+
+1	Olha	Olha	INTJ	O	
+2	,	,	PUNCT	O	
+3	arrumei-te	arrumei-te	VERB	O	
+4	uns	um	DET	O	
+5	brinquedos	brinquedo	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	Toma	Toma	VERB	O	
+2	aí	aí	ADV	O	
+3	,	,	PUNCT	O	
+4	vai	ir	VERB	O	
+5	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	atirou	atirar	VERB	O	
+3	um	um	NUM	O	
+4	.	.	PUNCT	O	
+
+1	Ela	ela	PRON	O	
+2	abanou	abanar	VERB	O	
+3	a	o	DET	O	
+4	cabeça	cabeça	NOUN	O	
+5	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Não	não	ADV	O	
+3	era	ser	AUX	O	
+4	preciso	preciso	ADJ	O	
+5	–	–	PUNCT	O	
+6	disse	dizer	VERB	O	
+7	.	.	PUNCT	O	
+
+1	Calou-se	Calar se	VERB	O	
+2	,	,	PUNCT	O	
+3	ficou	ficar	VERB	O	
+4	sentada	sentar	VERB	O	
+5	por	por	ADP	O	
+6	alguns	algum	DET	O	
+7	instantes	instante	NOUN	O	
+8	e	e	CCONJ	O	
+9	falou	falar	VERB	O	
+10	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Ivan	Ivan	PROPN	B	PER
+3	,	,	PUNCT	O	
+4	eles	eles	PRON	O	
+5	querem	querer	VERB	O	
+6	matar-te	matar-te	VERB	O	
+7	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	com	com	ADP	O	
+3	a	o	DET	O	
+4	mão	mão	NOUN	O	
+5	mostrava	mostrar	VERB	O	
+6	o	o	DET	O	
+7	próprio	próprio	DET	O	
+8	pescoço	pescoço	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Quem	quem	PRON	O	
+3	quer	querer	VERB	O	
+4	me	eu	PRON	O	
+5	matar	matar	VERB	O	
+6	?	?	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Meu	meu	DET	O	
+3	pai	pai	NOUN	O	
+4	;	;	PUNCT	O	
+5	os	o	DET	O	
+6	velhos	velho	NOUN	O	
+7	assim	assim	ADV	O	
+8	mandaram	mandar	VERB	O	
+9	.	.	PUNCT	O	
+
+1	Mas	mas	CCONJ	O	
+2	eu	eu	PRON	O	
+3	tenho	ter	VERB	O	
+4	piedade	piedade	NOUN	O	
+5	de	de	ADP	O	
+6	ti	ti	PRON	O	
+7	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	disse	dizer	VERB	O	
+3	então	então	ADV	O	
+4	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+
+1	Se	se	SCONJ	O	
+2	tens	tens	VERB	O	
+3	piedade	piedade	NOUN	O	
+4	de	de	ADP	O	
+5	mim	eu	PRON	O	
+6	,	,	PUNCT	O	
+7	então	então	ADV	O	
+8	traz-me	traz-me	VERB	O	
+9	uma	um	DET	O	
+10	vara	vara	NOUN	O	
+11	comprida	comprido	ADJ	O	
+12	.	.	PUNCT	O	
+
+1	Ela	ela	PRON	O	
+2	abanou	abanar	VERB	O	
+3	a	o	DET	O	
+4	cabeça	cabeça	NOUN	O	
+5	para	para	SCONJ	O	
+6	dizer	dizer	VERB	O	
+7	que	que	SCONJ	O	
+8	era	ser	AUX	O	
+9	impossível	impossível	ADJ	O	
+10	e	e	CCONJ	O	
+11	desapareceu	desaparecer	VERB	O	
+12	.	.	PUNCT	O	
+
+1	À	a o	ADP	O	
+2	noite	noite	NOUN	O	
+3	,	,	PUNCT	O	
+4	sentiu	sentir	VERB	O	
+5	que	que	SCONJ	O	
+6	lhe	ele	PRON	O	
+7	jogavam	jogar	VERB	O	
+8	terra	terra	NOUN	O	
+9	sobre	sobre	ADP	O	
+10	a	o	DET	O	
+11	cabeça	cabeça	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Olhou	Olhou	VERB	O	
+2	para	para	ADP	O	
+3	cima	cima	NOUN	O	
+4	.	.	PUNCT	O	
+
+1	Uma	um	DET	O	
+2	longa	longo	ADJ	O	
+3	vara	vara	NOUN	O	
+4	estava	estar	AUX	O	
+5	apoiada	apoiado	ADJ	O	
+6	na	em o	ADP	O	
+7	borda	borda	NOUN	O	
+8	da	de o	ADP	O	
+9	fossa	fossa	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Empinada	empinada	VERB	O	
+2	,	,	PUNCT	O	
+3	começou	começar	VERB	O	
+4	a	a	SCONJ	O	
+5	descer	descer	VERB	O	
+6	;	;	PUNCT	O	
+
+1	por	por	ADP	O	
+2	fim	fim	NOUN	O	
+3	,	,	PUNCT	O	
+4	rolou	rolar	VERB	O	
+5	para	para	ADP	O	
+6	dentro	dentro	ADV	O	
+7	da	de o	ADP	O	
+8	fossa	fossa	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Voltou	Voltar	VERB	O	
+2	a	a	SCONJ	O	
+3	olhar	olhar	VERB	O	
+4	para	para	ADP	O	
+5	cima	cima	NOUN	O	
+6	;	;	PUNCT	O	
+7	as	o	DET	O	
+8	estrelas	estrela	NOUN	O	
+9	resplandeciam	resplandecer	VERB	O	
+10	longe	longe	ADV	O	
+11	,	,	PUNCT	O	
+12	no	em o	ADP	O	
+13	céu	céu	NOUN	O	
+14	;	;	PUNCT	O	
+15	e	e	CCONJ	O	
+16	no	em o	ADP	O	
+17	alto	alto	NOUN	O	
+18	da	de o	ADP	O	
+19	fossa	fossa	NOUN	O	
+20	,	,	PUNCT	O	
+21	os	o	DET	O	
+22	olhos	olho	NOUN	O	
+23	de	de	ADP	O	
+24	Diná	Diná	PROPN	B	PER
+25	brilhavam	brilhar	VERB	O	
+26	na	em o	ADP	O	
+27	obscuridade	obscuridade	NOUN	O	
+28	como	como	ADP	O	
+29	os	o	PRON	O	
+30	de	de	ADP	O	
+31	um	um	DET	O	
+32	gato	gato	NOUN	O	
+33	.	.	PUNCT	O	
+
+1	Debruçou-se	Debruçou-se	VERB	O	
+2	sobre	sobre	ADP	O	
+3	a	o	DET	O	
+4	fossa	fossa	NOUN	O	
+5	e	e	CCONJ	O	
+6	murmurou	murmurar	VERB	O	
+7	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Ivan	Ivan	PROPN	B	PER
+3	!	!	PUNCT	I	PER
+
+1	Ivan	Ivan	PROPN	O	
+2	!	!	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	,	,	PUNCT	O	
+3	com	com	ADP	O	
+4	as	o	DET	O	
+5	mãos	mão	NOUN	O	
+6	sobre	sobre	ADP	O	
+7	o	o	DET	O	
+8	rosto	rosto	NOUN	O	
+9	,	,	PUNCT	O	
+10	fazia	fazer	VERB	O	
+11	sinal	sinal	NOUN	O	
+12	para	para	SCONJ	O	
+13	que	que	SCONJ	O	
+14	evitasse	evitar	VERB	O	
+15	fazer	fazer	VERB	O	
+16	barulho	barulho	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	despertou	despertar	VERB	O	
+3	o	o	DET	O	
+4	companheiro	companheiro	NOUN	O	
+5	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Ei	Ei	INTJ	O	
+3	,	,	PUNCT	O	
+4	Kostiline	Kostiline	PROPN	B	MISC
+5	,	,	PUNCT	O	
+6	vamos	ir	VERB	O	
+7	!	!	PUNCT	O	
+
+1	Tentemos	Tentemos	VERB	O	
+2	uma	um	DET	O	
+3	última	último	ADJ	O	
+4	vez	vez	NOUN	O	
+5	,	,	PUNCT	O	
+6	te	te	PRON	O	
+7	ajudarei	ajudar	VERB	O	
+8	.	.	PUNCT	O	
+
+1	Kostiline	Kostiline	PROPN	O	
+2	não	não	ADV	O	
+3	o	ele	PRON	O	
+4	quis	querer	VERB	O	
+5	ouvir	ouvir	VERB	O	
+6	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Não	não	ADV	O	
+3	–	–	PUNCT	O	
+4	respondeu	responder	VERB	O	
+5	–	–	PUNCT	O	
+6	nem	nem	ADP	O	
+7	sequer	sequer	ADV	O	
+8	posso	poder	VERB	O	
+9	sair	sair	VERB	O	
+10	daqui	de aqui	ADV	O	
+11	.	.	PUNCT	O	
+
+1	Onde	onde	ADV	O	
+2	iria	ir	AUX	O	
+3	eu	eu	PRON	O	
+4	,	,	PUNCT	O	
+5	quando	quando	ADV	O	
+6	nem	nem	CCONJ	O	
+7	forças	força	NOUN	O	
+8	tenho	ter	VERB	O	
+9	para	para	SCONJ	O	
+10	arrastar-me	arrastar eu	VERB	O	
+11	?	?	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Bem	Bem	ADV	O	
+3	,	,	PUNCT	O	
+4	então	então	ADV	O	
+5	,	,	PUNCT	O	
+6	adeus	adeus	ADJ	O	
+7	!	!	PUNCT	O	
+
+1	Não	não	ADV	O	
+2	me	eu	PRON	O	
+3	guardes	guardes	VERB	O	
+4	rancor	rancor	ADJ	O	
+5	!	!	PUNCT	O	
+
+1	Beijaram-se	Beijaram-se	VERB	O	
+2	.	.	PUNCT	O	
+
+1	Firmou-se	Firmar se	VERB	O	
+2	na	em o	ADP	O	
+3	vara	vara	NOUN	O	
+4	,	,	PUNCT	O	
+5	pediu	pedir	VERB	O	
+6	que	que	SCONJ	O	
+7	Diná	Diná	PROPN	B	PER
+8	a	a	SCONJ	O	
+9	segurasse	segurar	VERB	O	
+10	,	,	PUNCT	O	
+11	e	e	CCONJ	O	
+12	iniciou	iniciar	VERB	O	
+13	a	o	DET	O	
+14	escalada	escalada	NOUN	O	
+15	.	.	PUNCT	O	
+
+1	Duas	Duas	NUM	O	
+2	vez	vez	NOUN	O	
+3	caiu	cair	VERB	O	
+4	.	.	PUNCT	O	
+
+1	O	o	DET	O	
+2	cepo	cepo	NOUN	O	
+3	prejudicava-o	prejudicava-o	VERB	O	
+4	.	.	PUNCT	O	
+
+1	Kostiline	Kostiline	PROPN	O	
+2	susteve-o	susteve-o	PROPN	O	
+3	e	e	CCONJ	O	
+4	,	,	PUNCT	O	
+5	bem	bem	ADV	O	
+6	ou	ou	CCONJ	O	
+7	mal	mal	ADV	O	
+8	,	,	PUNCT	O	
+9	chegou	chegar	VERB	O	
+10	ao	a o	ADP	O	
+11	alto	alto	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	Com	com	ADP	O	
+2	suas	seu	DET	O	
+3	pequenas	pequeno	ADJ	O	
+4	mãos	mão	NOUN	O	
+5	,	,	PUNCT	O	
+6	Diná	Diná	PROPN	B	PER
+7	puxava-o	puxava-o	PROPN	O	
+8	pela	por o	ADP	O	
+9	camisa	camisa	NOUN	O	
+10	;	;	PUNCT	O	
+11	ela	ele	PRON	O	
+12	ria	ria	VERB	O	
+13	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	retirou	retirar	VERB	O	
+3	a	o	DET	O	
+4	vara	vara	NOUN	O	
+5	e	e	CCONJ	O	
+6	disse	dizer	VERB	O	
+7	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Põe-na	Põe-na	PROPN	B	LOC
+3	no	em o	ADP	O	
+4	lugar	lugar	NOUN	O	
+5	,	,	PUNCT	O	
+6	Diná	Diná	PROPN	B	PER
+7	,	,	PUNCT	O	
+8	se	se	SCONJ	O	
+9	a	ela	PRON	O	
+10	vêem	ver	VERB	O	
+11	aqui	aqui	ADV	O	
+12	,	,	PUNCT	O	
+13	batem-te	batem-te	VERB	O	
+14	.	.	PUNCT	O	
+
+1	Ela	ela	PRON	O	
+2	arrastou	arrastar	VERB	O	
+3	a	o	DET	O	
+4	vara	vara	NOUN	O	
+5	e	e	CCONJ	O	
+6	Giline	Giline	PROPN	B	PER
+7	desceu	descer	VERB	O	
+8	a	o	DET	O	
+9	montanha	montanha	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Para	para	SCONJ	O	
+2	poder	poder	VERB	O	
+3	caminhar	caminhar	VERB	O	
+4	livremente	livremente	ADV	O	
+5	,	,	PUNCT	O	
+6	tomou	tomar	VERB	O	
+7	uma	um	DET	O	
+8	pesada	pesado	ADJ	O	
+9	pedra	pedra	NOUN	O	
+10	e	e	CCONJ	O	
+11	tentou	tentar	VERB	O	
+12	quebrar	quebrar	VERB	O	
+13	as	o	DET	O	
+14	cadeias	cadeia	NOUN	O	
+15	do	de o	ADP	O	
+16	cepo	cepo	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	Não	não	ADV	O	
+2	conseguiu	conseguir	VERB	O	
+3	,	,	PUNCT	O	
+4	e	e	CCONJ	O	
+5	as	o	DET	O	
+6	pequenas	pequeno	ADJ	O	
+7	mãos	mão	NOUN	O	
+8	da	de o	ADP	O	
+9	fiel	fiel	ADJ	O	
+10	Diná	Diná	PROPN	B	PER
+11	que	que	PRON	O	
+12	entretanto	entretanto	CCONJ	O	
+13	o	ele	PRON	O	
+14	alcançara	alcançar	VERB	O	
+15	,	,	PUNCT	O	
+16	também	também	ADV	O	
+17	nada	nada	ADV	O	
+18	puderam	puderam	VERB	O	
+19	fazer	fazer	VERB	O	
+20	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	,	,	PUNCT	O	
+3	convencido	convencir	VERB	O	
+4	que	que	SCONJ	O	
+5	era	ser	AUX	O	
+6	imperioso	imperioso	ADJ	O	
+7	alcançar	alcançar	VERB	O	
+8	o	o	DET	O	
+9	desfiladeiro	desfiladeiro	NOUN	O	
+10	antes	antes	ADV	O	
+11	que	que	SCONJ	O	
+12	surgisse	surgir	VERB	O	
+13	a	o	DET	O	
+14	lua	lua	NOUN	O	
+15	,	,	PUNCT	O	
+16	deixou	deixar	VERB	O	
+17	fora	fora	ADV	O	
+18	a	o	DET	O	
+19	pedra	pedra	NOUN	O	
+20	e	e	CCONJ	O	
+21	resolveu	resolver	VERB	O	
+22	caminhar	caminhar	VERB	O	
+23	,	,	PUNCT	O	
+24	apesar	apesar	ADV	O	
+25	o	o	DET	O	
+26	cepo	cepo	NOUN	O	
+27	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Adeus	adeus	INTJ	B	MISC
+3	,	,	PUNCT	I	MISC
+4	pequena	pequeno	ADJ	I	MISC
+5	Diná	Diná	PROPN	I	MISC
+6	!	!	PUNCT	I	MISC
+
+1	–	–	PUNCT	O	
+2	disse	dizer	VERB	O	
+3	ele	ele	PRON	O	
+4	–	–	PUNCT	O	
+5	lembrarei	lembrar	VERB	O	
+6	de	de	ADP	O	
+7	ti	ti	PRON	O	
+8	eternamente	eternamente	ADV	O	
+9	.	.	PUNCT	O	
+
+1	Diná	Diná	PROPN	B	PER
+2	começou	começar	VERB	O	
+3	a	a	SCONJ	O	
+4	chorar	chorar	VERB	O	
+5	.	.	PUNCT	O	
+
+1	Abraçou-o	Abraçou-o	VERB	O	
+2	desesperadamente	desesperadamente	ADV	O	
+3	e	e	CCONJ	O	
+4	correu	correr	VERB	O	
+5	pela	por o	ADP	O	
+6	montanha	montanha	NOUN	O	
+7	,	,	PUNCT	O	
+8	saltando	saltar	VERB	O	
+9	como	como	ADP	O	
+10	uma	um	DET	O	
+11	cabritinha	cabritinha	NOUN	O	
+12	.	.	PUNCT	O	
+
+1	No	em o	ADP	O	
+2	meio	meio	NOUN	O	
+3	da	de o	ADP	O	
+4	noite	noite	NOUN	O	
+5	,	,	PUNCT	O	
+6	escutava-se	escutar se	VERB	O	
+7	apenas	apenas	ADV	O	
+8	a	o	DET	O	
+9	fita	fita	NOUN	O	
+10	de	de	ADP	O	
+11	moedas	moeda	NOUN	O	
+12	que	que	PRON	O	
+13	prendia	prender	VERB	O	
+14	seus	seu	DET	O	
+15	cavalos	cavalo	NOUN	O	
+16	,	,	PUNCT	O	
+17	tilintando	tilintar	VERB	O	
+18	de	de	ADP	O	
+19	encontro	encontro	NOUN	O	
+20	as	o	DET	O	
+21	suas	seu	DET	O	
+22	costas	costa	NOUN	O	
+23	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	fez	fazer	VERB	O	
+3	o	o	DET	O	
+4	sinal	sinal	NOUN	O	
+5	da	de o	ADP	O	
+6	cruz	cruz	NOUN	O	
+7	,	,	PUNCT	O	
+8	segurou	segurar	VERB	O	
+9	o	o	DET	O	
+10	cadeado	cadeado	NOUN	O	
+11	do	de o	ADP	O	
+12	cepo	cepo	NOUN	O	
+13	,	,	PUNCT	O	
+14	a	a	ADP	O	
+15	fim	fim	NOUN	O	
+16	de	de	SCONJ	O	
+17	evitar	evitar	VERB	O	
+18	qualquer	qualquer	DET	O	
+19	barulho	barulho	NOUN	O	
+20	e	e	CCONJ	O	
+21	iniciou	iniciar	VERB	O	
+22	a	o	DET	O	
+23	caminhada	caminhada	NOUN	O	
+24	.	.	PUNCT	O	
+
+1	Arrastava	Arrastava	VERB	O	
+2	a	o	DET	O	
+3	perna	perna	NOUN	O	
+4	,	,	PUNCT	O	
+5	olhando	olhar	VERB	O	
+6	constantemente	constantemente	ADV	O	
+7	para	para	ADP	O	
+8	o	o	DET	O	
+9	lado	lado	NOUN	O	
+10	avermelhado	avermelhar	VERB	O	
+11	do	de o	ADP	O	
+12	céu	céu	NOUN	O	
+13	de	de	ADP	O	
+14	onde	onde	PRON	O	
+15	deveria	dever	VERB	O	
+16	surgir	surgir	VERB	O	
+17	a	o	DET	O	
+18	lua	lua	NOUN	O	
+19	.	.	PUNCT	O	
+
+1	Já	já	ADV	O	
+2	conhecia	conhecer	VERB	O	
+3	o	o	DET	O	
+4	caminho	caminho	NOUN	O	
+5	.	.	PUNCT	O	
+
+1	Caminhou	Caminhou	VERB	O	
+2	sem	sem	ADP	O	
+3	hesitações	hesitação	NOUN	O	
+4	durante	durante	ADP	O	
+5	8	8	NUM	O	
+6	verstas	versta	NOUN	O	
+7	.	.	PUNCT	O	
+
+1	Porém	porém	ADV	O	
+2	,	,	PUNCT	O	
+3	conseguiria	conseguir	VERB	O	
+4	alcançar	alcançar	VERB	O	
+5	a	o	DET	O	
+6	floresta	floresta	NOUN	O	
+7	antes	antes	SCONJ	O	
+8	que	que	SCONJ	O	
+9	a	o	DET	O	
+10	lua	lua	NOUN	O	
+11	aparecesse	aparecer	VERB	O	
+12	?	?	PUNCT	O	
+
+1	Atravessou	atravessar	VERB	O	
+2	o	o	DET	O	
+3	ribeiro	Ribeiro	NOUN	O	
+4	;	;	PUNCT	O	
+5	quando	quando	ADV	O	
+6	brilhou	brilhar	VERB	O	
+7	a	o	DET	O	
+8	luz	luz	NOUN	O	
+9	,	,	PUNCT	O	
+10	acabava	acabar	VERB	O	
+11	ele	ele	PRON	O	
+12	de	de	SCONJ	O	
+13	entrar	entrar	VERB	O	
+14	na	em o	ADP	O	
+15	floresta	floresta	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	Novamente	novamente	ADV	O	
+2	tentou	tentar	VERB	O	
+3	abrir	abrir	VERB	O	
+4	o	o	DET	O	
+5	cepo	cepo	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	Feriu	Feriu	VERB	O	
+2	as	o	DET	O	
+3	mãos	mão	NOUN	O	
+4	,	,	PUNCT	O	
+5	mas	mas	CCONJ	O	
+6	não	não	ADV	O	
+7	o	ele	PRON	O	
+8	conseguiu	conseguir	VERB	O	
+9	abrir	abrir	VERB	O	
+10	.	.	PUNCT	O	
+
+1	Levantou-se	Levantou-se	VERB	O	
+2	e	e	CCONJ	O	
+3	continuou	continuar	VERB	O	
+4	a	a	SCONJ	O	
+5	caminhar	caminhar	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Percorreu	Percorreu	VERB	O	
+2	uma	um	DET	O	
+3	versta	versta	NOUN	O	
+4	;	;	PUNCT	O	
+5	suas	seu	DET	O	
+6	forças	força	NOUN	O	
+7	estavam	estar	AUX	O	
+8	esgotadas	esgotado	ADJ	O	
+9	;	;	PUNCT	O	
+
+1	mal	mal	ADV	O	
+2	se	se	PRON	O	
+3	sustinha	sustinhar	VERB	O	
+4	em	em	ADP	O	
+5	pé	pé	NOUN	O	
+6	.	.	PUNCT	O	
+
+1	Andava	Andava	VERB	O	
+2	dez	dez	NUM	O	
+3	passos	passo	NOUN	O	
+4	e	e	CCONJ	O	
+5	parava	parar	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Caminhou	Caminhou	VERB	O	
+2	durante	durante	ADP	O	
+3	toda	todo	DET	O	
+4	a	o	DET	O	
+5	noite	noite	NOUN	O	
+6	;	;	PUNCT	O	
+
+1	encontrou	encontrar	VERB	O	
+2	apenas	apenas	ADV	O	
+3	dois	dois	NUM	O	
+4	tártaros	tártaro	NOUN	O	
+5	a	a	ADP	O	
+6	cavalo	cavalo	NOUN	O	
+7	;	;	PUNCT	O	
+8	porém	porém	CCONJ	O	
+9	,	,	PUNCT	O	
+10	ouviu-os	ouviu-os	PRON	O	
+11	de	de	ADP	O	
+12	longe	longe	NOUN	O	
+13	e	e	CCONJ	O	
+14	ocultou-se	ocultou-se	VERB	O	
+15	atras	atra	NOUN	O	
+16	de	de	ADP	O	
+17	uma	um	DET	O	
+18	moita	moita	NOUN	O	
+19	.	.	PUNCT	O	
+
+1	Já	já	ADV	O	
+2	então	então	ADV	O	
+3	a	o	DET	O	
+4	lua	lua	NOUN	O	
+5	começava	começar	VERB	O	
+6	a	a	SCONJ	O	
+7	empalidecer	empalidecer	VERB	O	
+8	;	;	PUNCT	O	
+
+1	caía	caír	VERB	O	
+2	o	o	DET	O	
+3	orvalho	orvalho	NOUN	O	
+4	;	;	PUNCT	O	
+5	o	o	DET	O	
+6	dia	dia	NOUN	O	
+7	estava	estar	AUX	O	
+8	próximo	próximo	ADJ	O	
+9	e	e	CCONJ	O	
+10	Giline	Giline	PROPN	B	LOC
+11	não	não	ADV	O	
+12	chegara	chegarar	VERB	O	
+13	ao	a o	ADP	O	
+14	fim	fim	NOUN	O	
+15	da	de o	ADP	O	
+16	floresta	floresta	NOUN	O	
+17	.	.	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Pois	pois	ADV	O	
+3	bem	bem	INTJ	O	
+4	!	!	PUNCT	O	
+
+1	–	–	PUNCT	O	
+2	disse	dizer	VERB	O	
+3	–	–	PUNCT	O	
+4	ando	ando	VERB	O	
+5	mais	mais	ADV	O	
+6	trinta	trinta	NUM	O	
+7	passos	passo	NOUN	O	
+8	,	,	PUNCT	O	
+9	escondo-me	escondo-me	VERB	O	
+10	na	em o	ADP	O	
+11	floresta	floresta	NOUN	O	
+12	e	e	CCONJ	O	
+13	sento-me	sento-me	VERB	O	
+14	!	!	PUNCT	O	
+
+1	Caminhou	caminhar	VERB	O	
+2	os	o	DET	O	
+3	30	30	NUM	O	
+4	passos	passo	NOUN	O	
+5	e	e	CCONJ	O	
+6	viu	ver	VERB	O	
+7	que	que	SCONJ	O	
+8	a	o	DET	O	
+9	floresta	floresta	NOUN	O	
+10	terminava	terminar	VERB	O	
+11	um	um	DET	O	
+12	pouco	pouco	ADV	O	
+13	mais	mais	ADV	O	
+14	à	a o	ADP	O	
+15	frente	frente	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	Ao	a o	SCONJ	O	
+2	alcançar	alcançar	VERB	O	
+3	a	o	DET	O	
+4	orla	orla	NOUN	O	
+5	da	de o	ADP	O	
+6	floresta	Floresta	PROPN	O	
+7	,	,	PUNCT	O	
+8	já	já	ADV	O	
+9	era	ser	AUX	O	
+10	dia	dia	NOUN	O	
+11	.	.	PUNCT	O	
+
+1	À	a o	NOUN	O	
+2	sua	seu	DET	O	
+3	frente	frente	NOUN	O	
+4	,	,	PUNCT	O	
+5	a	o	DET	O	
+6	estepe	estepe	NOUN	O	
+7	e	e	CCONJ	O	
+8	a	o	DET	O	
+9	fortaleza	fortaleza	NOUN	O	
+10	;	;	PUNCT	O	
+11	à	a o	ADP	O	
+12	esquerda	esquerda	NOUN	O	
+13	,	,	PUNCT	O	
+14	bem	bem	ADV	O	
+15	próximo	próximo	ADV	O	
+16	,	,	PUNCT	O	
+17	no	em o	ADP	O	
+18	sopé	sopé	PROPN	O	
+19	da	de o	ADP	O	
+20	montanha	montanha	NOUN	O	
+21	,	,	PUNCT	O	
+22	ardiam	arder	VERB	O	
+23	ou	ou	CCONJ	O	
+24	extinguiam-se	extinguiam-se	VERB	O	
+25	fogos	fogo	NOUN	O	
+26	,	,	PUNCT	O	
+27	o	o	DET	O	
+28	fumo	fumo	NOUN	O	
+29	subindo	subir	VERB	O	
+30	,	,	PUNCT	O	
+31	homens	homem	NOUN	O	
+32	rodeando	rodear	VERB	O	
+33	as	o	DET	O	
+34	fogueiras	fogueira	NOUN	O	
+35	.	.	PUNCT	O	
+
+1	Olhou	Olhar	VERB	O	
+2	fixamente	fixamente	ADV	O	
+3	e	e	CCONJ	O	
+4	viu	ver	VERB	O	
+5	os	o	DET	O	
+6	fuzis	fuzil	NOUN	O	
+7	que	que	PRON	O	
+8	brilhavam	brilhar	VERB	O	
+9	:	:	PUNCT	O	
+10	eram	ser	AUX	O	
+11	os	o	DET	O	
+12	cossacos	cossaco	NOUN	O	
+13	e	e	CCONJ	O	
+14	os	o	DET	O	
+15	soldados	soldado	NOUN	O	
+16	.	.	PUNCT	O	
+
+1	Giline	Giline	PROPN	B	PER
+2	sentiu-se	sentiu-se	VERB	O	
+3	invadido	invadir	VERB	O	
+4	pela	por o	ADP	O	
+5	alegria	alegria	NOUN	O	
+6	;	;	PUNCT	O	
+
+1	reuniu	reunir	VERB	O	
+2	as	o	DET	O	
+3	últimas	último	ADJ	O	
+4	forças	força	NOUN	O	
+5	e	e	CCONJ	O	
+6	iniciou	iniciar	VERB	O	
+7	a	o	DET	O	
+8	descida	descida	NOUN	O	
+9	da	de o	ADP	O	
+10	montanha	montanha	NOUN	O	
+11	.	.	PUNCT	O	
+
+1	Mas	mas	CCONJ	O	
+2	dizia	dizer	VERB	O	
+3	:	:	PUNCT	O	
+
+1	“	“	PUNCT	O	
+2	Deus	Deus	PROPN	O	
+3	me	eu	PRON	O	
+4	guarde	guardar	VERB	O	
+5	que	que	SCONJ	O	
+6	um	um	DET	O	
+7	tártaro	tártaro	NOUN	O	
+8	me	eu	PRON	O	
+9	veja	ver	VERB	O	
+10	:	:	PUNCT	O	
+11	não	não	ADV	O	
+12	conseguirei	conseguirei	VERB	O	
+13	passar	passar	VERB	O	
+14	”	”	PUNCT	O	
+15	.	.	PUNCT	O	
+
+1	Mal	mal	ADV	O	
+2	lhe	ele	PRON	O	
+3	aflorara	aflorara	NOUN	O	
+4	este	este	DET	O	
+5	pensamento	pensamento	NOUN	O	
+6	quando	quando	ADV	O	
+7	olhou	olhar	VERB	O	
+8	à	a o	ADP	O	
+9	esquerda	esquerda	NOUN	O	
+10	.	.	PUNCT	O	
+
+1	Sobre	sobre	ADP	O	
+2	uma	um	DET	O	
+3	colina	colina	NOUN	O	
+4	,	,	PUNCT	O	
+5	3	3	NUM	O	
+6	tártaros	tártaro	NOUN	O	
+7	ocupando	ocupar	VERB	O	
+8	duas	dois	NUM	O	
+9	deciatinas	deciatina	NOUN	O	
+10	(	(	PUNCT	O	
+11	medida	medida	NOUN	O	
+12	de	de	ADP	O	
+13	superfície	superfície	NOUN	O	
+14	russa	russo	ADJ	O	
+15	)	)	PUNCT	O	
+16	.	.	PUNCT	O	
+
+1	Viram-no	Viram-no	ADJ	B	LOC
+2	e	e	CCONJ	O	
+3	galoparam	galoparam	NOUN	O	
+4	em	em	ADP	O	
+5	sua	seu	DET	O	
+6	direção	direção	NOUN	O	
+7	.	.	PUNCT	O	
+
+1	Sentiu	Sentiu	VERB	O	
+2	que	que	SCONJ	O	
+3	desfalecia	desfalecer	VERB	O	
+4	.	.	PUNCT	O	
+
+1	Agitou	agitour	VERB	B	PER
+2	os	o	DET	O	
+3	braços	braço	NOUN	O	
+4	e	e	CCONJ	O	
+5	gritou	gritar	VERB	O	
+6	o	o	PRON	O	
+7	que	que	PRON	O	
+8	lhe	ele	PRON	O	
+9	veio	vir	VERB	O	
+10	ao	a o	ADP	O	
+11	espírito	espírito	NOUN	O	
+12	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Irmãos	Irmãos	PROPN	O	
+3	,	,	PUNCT	O	
+4	socorro	socorro	NOUN	O	
+5	,	,	PUNCT	O	
+6	irmãos	irmão	NOUN	O	
+7	!	!	PUNCT	O	
+
+1	Os	o	DET	O	
+2	russos	russo	NOUN	O	
+3	escutaram-no	escutaram-no	ADJ	O	
+4	e	e	CCONJ	O	
+5	montaram	montar	VERB	O	
+6	.	.	PUNCT	O	
+
+1	Correram	Correram	VERB	O	
+2	em	em	ADP	O	
+3	sua	seu	DET	O	
+4	direção	direção	NOUN	O	
+5	,	,	PUNCT	O	
+6	tentando	tentar	VERB	O	
+7	cortar	cortar	VERB	O	
+8	caminho	caminho	NOUN	O	
+9	aos	a o	ADP	O	
+10	tártaros	tártaro	NOUN	O	
+11	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	cossacos	cossaco	NOUN	O	
+3	estavam	estar	AUX	O	
+4	longe	longe	ADV	O	
+5	e	e	CCONJ	O	
+6	os	o	DET	O	
+7	tártaros	tártaro	NOUN	O	
+8	bem	bem	ADV	O	
+9	perto	perto	ADV	O	
+10	.	.	PUNCT	O	
+
+1	Mas	mas	CCONJ	O	
+2	Giline	Giline	PROPN	B	PER
+3	apelara	apelar	ADJ	O	
+4	já	já	ADV	O	
+5	para	para	ADP	O	
+6	as	o	DET	O	
+7	derradeiras	derradeira	ADJ	O	
+8	forças	força	NOUN	O	
+9	;	;	PUNCT	O	
+10	segurou	segurar	VERB	O	
+11	o	o	DET	O	
+12	cepo	cepo	NOUN	O	
+13	com	com	ADP	O	
+14	as	o	DET	O	
+15	mãos	mão	NOUN	O	
+16	e	e	CCONJ	O	
+17	correu	correr	VERB	O	
+18	em	em	ADP	O	
+19	direção	direção	NOUN	O	
+20	aos	a o	ADP	O	
+21	cossacos	cossaco	NOUN	O	
+22	;	;	PUNCT	O	
+23	fazia	fazer	VERB	O	
+24	sinais	sinal	NOUN	O	
+25	da	de o	ADP	O	
+26	cruz	cruz	NOUN	O	
+27	e	e	CCONJ	O	
+28	gritava	gritar	VERB	O	
+29	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	Irmãos	Irmãos	PROPN	B	MISC
+3	!	!	PUNCT	I	MISC
+4	-	-	PUNCT	I	MISC
+5	Irmãos	Irmãos	PROPN	I	MISC
+6	!	!	PUNCT	I	MISC
+
+1	-	-	PUNCT	O	
+2	Irmãos	Irmãos	PROPN	O	
+3	!	!	PUNCT	O	
+
+1	Os	o	DET	O	
+2	soldados	soldado	NOUN	O	
+3	cercaram-no	cercaram-no	ADJ	O	
+4	.	.	PUNCT	O	
+
+1	Um	um	NUM	O	
+2	deles	de ele	PRON	O	
+3	ofereceu-lhe	ofereceu-lhe	VERB	O	
+4	pão	pão	NOUN	O	
+5	,	,	PUNCT	O	
+6	um	um	DET	O	
+7	outro	outro	DET	O	
+8	cerveja	cerveja	NOUN	O	
+9	,	,	PUNCT	O	
+10	outro	outro	DET	O	
+11	vodca	vodca	NOUN	O	
+12	,	,	PUNCT	O	
+13	outro	outro	PRON	O	
+14	cobriu-o	cobriu-o	VERB	O	
+15	com	com	ADP	O	
+16	uma	um	DET	O	
+17	capa	capa	NOUN	O	
+18	e	e	CCONJ	O	
+19	outro	outro	PRON	O	
+20	ainda	ainda	ADV	O	
+21	libertou-o	libertou-o	VERB	O	
+22	do	de o	ADP	O	
+23	cepo	cepo	NOUN	O	
+24	.	.	PUNCT	O	
+
+1	Os	o	DET	O	
+2	oficiais	oficial	NOUN	O	
+3	reconheceram-no	reconheceram-no	VERB	O	
+4	e	e	CCONJ	O	
+5	conduziram-no	conduziram-no	VERB	O	
+6	para	para	ADP	O	
+7	a	o	DET	O	
+8	fortaleza	fortaleza	NOUN	O	
+9	.	.	PUNCT	O	
+
+1	Ai	ai	INTJ	O	
+2	Giline	Giline	PROPN	B	PER
+3	contou	contar	VERB	O	
+4	toda	todo	DET	O	
+5	a	o	DET	O	
+6	sua	seu	DET	O	
+7	aventura	aventura	NOUN	O	
+8	,	,	PUNCT	O	
+9	e	e	CCONJ	O	
+10	disse	dizer	VERB	O	
+11	:	:	PUNCT	O	
+
+1	-	-	PUNCT	O	
+2	E	e	CCONJ	O	
+3	aqui	aqui	ADV	O	
+4	está	estar	AUX	O	
+5	como	como	ADV	O	
+6	eu	eu	PRON	O	
+7	fui	ser	AUX	O	
+8	a	o	DET	O	
+9	casa	casa	NOUN	O	
+10	e	e	CCONJ	O	
+11	me	eu	PRON	O	
+12	casei	casar	VERB	O	
+13	!	!	PUNCT	O	
+
+1	Certamente	certamente	ADV	O	
+2	não	não	ADV	O	
+3	era	ser	AUX	O	
+4	esse	esse	PRON	O	
+5	o	o	DET	O	
+6	meu	meu	DET	O	
+7	destino	destino	NOUN	O	
+8	.	.	PUNCT	O	
+
+1	E	e	CCONJ	O	
+2	continuou	continuar	VERB	O	
+3	servindo	servir	VERB	O	
+4	no	em o	ADP	O	
+5	Cáucaso	Cáucaso	PROPN	B	LOC
+6	.	.	PUNCT	O	
+
+1	Kostiline	Kostiline	PROPN	B	LOC
+2	foi	ser	AUX	O	
+3	resgatado	resgatar	VERB	O	
+4	apenas	apenas	ADV	O	
+5	um	um	NUM	O	
+6	mês	mês	NOUN	O	
+7	mais	mais	ADV	O	
+8	tarde	tarde	ADV	O	
+9	,	,	PUNCT	O	
+10	por	por	ADP	O	
+11	5	5	NUM	O	
+12	mil	mil	NUM	O	
+13	rublos	rublo	NOUN	O	
+14	.	.	PUNCT	O	
+
+1	Estava	estar	AUX	O	
+2	mais	mais	ADV	O	
+3	morto	morto	ADJ	O	
+4	do	de o	ADP	O	
+5	que	que	PRON	O	
+6	vivo	vivar	VERB	O	
+7	...	...	PUNCT	O	
+
